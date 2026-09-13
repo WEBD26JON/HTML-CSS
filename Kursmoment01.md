@@ -28,3 +28,10 @@
 ·        Hur fungerar iframe-taggen?<br>
 ·        Vilka taggar och attribut är viktiga för att spela upp ljud i HTML?<br>
 ·        Vilka taggar och attribut är viktiga för att spela upp video i HTML?<br>
+
+
+
+- [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=62s) - 
+SuperSimpleDev
+- [HTML Examples](https://www.w3schools.com/html/html_examples.asp)
+
