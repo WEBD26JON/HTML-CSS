@@ -1,7 +1,7 @@
 # HTML-CSS
 HTML/CSS kurs med 8 kursmoment med 3 stycken betygsgrundande uppgifter: individuellt webbprojekt, agilt grupparbete webbprojekt och muntlig redovisning.
 
-Jag vill tipsa om en plattform som jag gillar för att lära sig HTML och JavaScript: Coddy. Den passar även för dig som är helt nybörjare. Plattformen är betald, men man kan lära sig en hel del gratis också. Jag tycker att den är väldigt smidig och bra för att öva på egen hand.
+Jag vill tipsa om en plattform som jag gillar för att lära sig HTML och JavaScript: *Coddy.tech*. Den passar även för dig som är helt nybörjare. Plattformen är betald, men man kan lära sig en hel del gratis också. Jag tycker att den är väldigt smidig och bra för att öva på egen hand.
 
 Om ni vill testa får ni gärna använda min Coddy.tech referenslänk:
  eller här: [https://coddy.tech/refer?ref=yQMt79SnC1TI](https://coddy.tech/refer?ref=yQMt79SnC1TI)
