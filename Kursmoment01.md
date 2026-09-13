@@ -5,6 +5,7 @@
 • Introduktion – VS Code<br>
 • HTML Basics<br>
 
+**QSTNS**<br>
 ·        Vad är HTML?<br>
 ·        Grundstuktur i HTML?<br>
 ·        Förklara skillnaden mellan taggar och attribut i HTML?<br>
