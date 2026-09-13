@@ -5,7 +5,7 @@
 • Introduktion – VS Code<br>
 • HTML Basics<br>
 
-**QSTNS**<br>
+**QSTNS och [ANSWRS](https://github.com/WEBD26JON/HTML-CSS/blob/main/ANSWRS.md)**<br>
 ·        Vad är HTML?<br>
 ·        Grundstuktur i HTML?<br>
 ·        Förklara skillnaden mellan taggar och attribut i HTML?<br>
