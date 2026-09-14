@@ -44,8 +44,27 @@ SuperSimpleDev
 HTML standart.<br>
   https://www.w3.org/<br>
   https://html.spec.whatwg.org/
+
+https://github.com/Nina3211/Nina3211.github.io
   
 W3S validator<br>
 https://validator.w3.org/#validate_by_uri+with_options<br>
 
+**Bas HTNL document**<br>
+
+HTML tags:<br>
+```
+https://www.w3schools.com/tags/<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exempel 1</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
 
