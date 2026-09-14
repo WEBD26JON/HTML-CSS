@@ -68,3 +68,57 @@ https://www.w3schools.com/tags/<br>
 </html>
 ```
 
+## Tags övning
+```
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fysiska och semantiska element</title>
+</head>
+<body>
+    <h1>Textformatering</h1>
+    <h2>Fysiska element</h2>
+    <hr>
+
+    <h3>Fet och kursiv</h3>
+    <p>
+        Text utan stil <br>
+        <b>Lite fet stilad text</b><br>
+        <i>Lite kursiv text.</i>
+    </p>
+    <hr>
+
+    <h3>Upphöjd och nedsänkt</h3>
+    <p>
+        Text utan stil <br>
+        Area: 25m<sup>2</sup><br>
+        Vatten: H<sub>2</sub>0 
+    </p>
+
+    <h2>Semantiska element</h2>
+    <h3>Em och Strong</h3>
+    <p>
+        <em>Betoning av text</em><br>
+        I <em>think</em>, she was the first here.<br>
+        <strong>Beware:</strong>
+        Pickpockets operate in this area.
+    </p>
+    <hr>
+    <h3>Markeringspenna</h3>
+    Här kommer lite <mark>viktig info om kursen</mark> HTML och CSS
+    <hr>
+    <h3>Citat</h3>
+    <blockquote cite="www.brainyquote.com">
+        "Did you ever stop to think, and forget to start again?"
+    </blockquote>
+
+    <p>
+        As A.A.Milane sad, <q>Some people talk to animals. Not many listen.</q>
+    </p>
+
+</body>
+</html>
+```
+
