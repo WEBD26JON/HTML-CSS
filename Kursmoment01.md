@@ -41,7 +41,11 @@ SuperSimpleDev
   Vad består en webbplats av?<br>
   Interaktivitet - Java Script, Utseende - CSS, Innehåll - Innehåll, Struktur - HTML
 
-HTML standart.
-  https://www.w3.org/
+HTML standart.<br>
+  https://www.w3.org/<br>
   https://html.spec.whatwg.org/
   
+W3S validator<br>
+https://validator.w3.org/#validate_by_uri+with_options<br>
+
+
