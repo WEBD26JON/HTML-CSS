@@ -36,4 +36,8 @@
 SuperSimpleDev
 - [HTML Examples](https://www.w3schools.com/html/html_examples.asp)
 - [internetmuseum](https://internetmuseum.se/)
+- [Lysator](https://www.lysator.liu.se/)
 
+  Vad består en webbplats av?<br>
+  Interaktivitet - Java Script, Utseende - CSS, Innehåll - Innehåll, Struktur - HTML
+  
