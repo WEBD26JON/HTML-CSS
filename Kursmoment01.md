@@ -50,7 +50,7 @@ https://github.com/Nina3211/Nina3211.github.io
 W3S validator<br>
 https://validator.w3.org/#validate_by_uri+with_options<br>
 
-**Bas HTNL document**<br>
+**Bas HTML document**<br>
 
 HTML tags:<br>
 ```
