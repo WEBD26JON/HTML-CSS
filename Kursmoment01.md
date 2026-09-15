@@ -144,3 +144,6 @@ HTML Formulär och form validering<br>
 https://emmet.io/<br>
 https://picsum.photos/<br>
 
+## Övningar
+https://github.com/WEBD26JON/HTML-CSS/blob/main/ovningar-l2.html<br>
+
