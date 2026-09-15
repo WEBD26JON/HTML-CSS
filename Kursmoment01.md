@@ -49,6 +49,7 @@ https://github.com/Nina3211/Nina3211.github.io
   
 W3S validator<br>
 https://validator.w3.org/#validate_by_uri+with_options<br>
+https://caniuse.com/<br>
 
 **Bas HTML document**<br>
 
@@ -126,8 +127,17 @@ https://www.w3schools.com/tags/<br>
             172 80 Stockholm
         </p>
     </address>
-
 </body>
 </html>
 ```
+
+# Lektion 2
+
+Dagens agenda<br>
+Interaktiva element, forms och validering<br>
+HTML Listor<br>
+HTML Länkar<br>
+HTML Tabell<br>
+HTML Bilder, Video och Ljud<br>
+HTML Formulär och form validering<br>
 
