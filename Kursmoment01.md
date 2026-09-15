@@ -141,6 +141,6 @@ HTML Tabell<br>
 HTML Bilder, Video och Ljud<br>
 HTML Formulär och form validering<br>
 
-https://emmet.io/>br>
+https://emmet.io/<br>
 https://picsum.photos/<br>
 
