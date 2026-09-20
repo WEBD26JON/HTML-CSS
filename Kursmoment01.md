@@ -146,4 +146,5 @@ https://picsum.photos/<br>
 
 ## Övningar
 https://github.com/WEBD26JON/HTML-CSS/blob/main/ovningar-l2.html<br>
+[övning](https://webd26jon.github.io/HTML-CSS/ovningar-l2.html)
 
