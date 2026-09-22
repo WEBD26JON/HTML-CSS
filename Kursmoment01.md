@@ -145,6 +145,5 @@ https://emmet.io/<br>
 https://picsum.photos/<br>
 
 ## Övningar
-Övming 1 - [Code](ovningar/ovningar-l2.html)   -  
-[www page](https://webd26jon.github.io/HTML-CSS/ovningar/ovningar-l2.html)
+Övming 1 - [Code](ovningar/ovningar-l2.html)   -  [www page](https://webd26jon.github.io/HTML-CSS/ovningar/ovningar-l2.html)
 
