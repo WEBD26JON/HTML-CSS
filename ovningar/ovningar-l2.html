@@ -95,9 +95,10 @@
         <input type="hidden" name="">
         <legend>Your details:</legend>
         <label for="username">Name: </label>
-        <input type="text" name="username" id="username">
+        <input type="text" size="30" name="username" id="username">
         <br>
-        <label for="email">Email: </label><input type="email" name="email"> 
+        <label for="email">Email: </label>
+        <input type="email" size="30" name="email" id="email"> 
       </fieldset>
 
       <fieldset>   
@@ -120,7 +121,13 @@
         <label>Comments:</label>
      
         <br>
-        <textarea name="comments" id="comments" cols="40" rows="5"></textarea>   
+        <textarea name="comments" id="comments" cols="45" rows="5"></textarea> 
+        <br>
+
+        <input type="checkbox" name="signme" id="signme" value="sign" checked>
+        <label for="signme">Sign me up for email updates</label>
+        <br>
+        <input type="submit" value="Submit review">
       </fieldset>
 
 
