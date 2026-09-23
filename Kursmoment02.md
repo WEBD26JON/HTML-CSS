@@ -267,7 +267,7 @@ text-transform: lowercase;
 ```
 ### Radavstånd
 ```html
-p{
+p {
 line-height: 2em;
 }
 ```
@@ -285,11 +285,18 @@ Programmers, like everyone else, like freebies, and the go-to place for free fon
 - Choose the desired font and style.
 - Copy the tags displayed on the right and paste them into the `<head>` of your page:
 
-`<head> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"> </head>`
-
+```html
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+```
 Woohooo! This font is now available in your CSS:
 
-`body { font-family: 'Roboto', sans-serif; }`
+```css
+body { font-family: 'Roboto', sans-serif; }
+```
 
 ---
 [⬆️ Till innehåll](#innehåll)
