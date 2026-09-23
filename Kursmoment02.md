@@ -216,21 +216,21 @@ html {
 
 # CSS Selectors
 
-| Selector | Example | Example description |
+| Selektor | Exempel | Beskrivning |
 |---|---|---|
-| `.class` | `.intro` | Selects all elements with `class="intro"` |
-| `.class1.class2` | `.name1.name2` | Selects all elements with both `name1` and `name2` set within its class attribute |
-| `.class1 .class2` | `.name1 .name2` | Selects all elements with `name2` that is a descendant of an element with `name1` |
-| `#id` | `#firstname` | Selects the element with `id="firstname"` |
-| `*` | `*` | Selects all elements |
-| `element` | `p` | Selects all `<p>` elements |
-| `element.class` | `p.intro` | Selects all `<p>` elements with `class="intro"` |
-| `element,element` | `div, p` | Selects all `<div>` elements and all `<p>` elements |
-| `element element` | `div p` | Selects all `<p>` elements inside `<div>` elements |
-| `element>element` | `div > p` | Selects all `<p>` elements where the parent is a `<div>` element |
-| `element+element` | `div + p` | Selects the first `<p>` element that is placed immediately after `<div>` elements |
-| `element1~element2` | `p ~ ul` | Selects every `<ul>` element that is preceded by a `<p>` element |
-| `[attribute]` | `[target]` | Selects all elements with a `target` attribute |
+| `.class` | `.intro` | Väljer alla element med `class="intro"` |
+| `.class1.class2` | `.name1.name2` | Väljer alla element som har både `name1` och `name2` i sitt `class`-attribut |
+| `.class1 .class2` | `.name1 .name2` | Väljer alla element med `name2` som finns inuti ett element med `name1` |
+| `#id` | `#firstname` | Väljer elementet med `id="firstname"` |
+| `*` | `*` | Väljer alla element |
+| `element` | `p` | Väljer alla `<p>`-element |
+| `element.class` | `p.intro` | Väljer alla `<p>`-element med `class="intro"` |
+| `element,element` | `div, p` | Väljer alla `<div>`-element och alla `<p>`-element |
+| `element element` | `div p` | Väljer alla `<p>`-element som finns inuti `<div>`-element |
+| `element > element` | `div > p` | Väljer alla `<p>`-element som är direkta barn till ett `<div>`-element |
+| `element + element` | `div + p` | Väljer det första `<p>`-elementet som kommer direkt efter ett `<div>`-element |
+| `element1 ~ element2` | `p ~ ul` | Väljer alla `<ul>`-element som kommer efter ett `<p>`-element |
+| `[attribute]` | `[target]` | Väljer alla element som har attributet `target` |
 
 ### Kort förklaring
 
