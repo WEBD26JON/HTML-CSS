@@ -221,3 +221,17 @@ html {
 | `element+element` | `div + p` | Selects the first `<p>` element that is placed immediately after `<div>` elements |
 | `element1~element2` | `p ~ ul` | Selects every `<ul>` element that is preceded by a `<p>` element |
 | `[attribute]` | `[target]` | Selects all elements with a `target` attribute |
+
+### Kort förklaring
+
+Det är lätt att blanda ihop några av CSS-selektorerna:
+
+- `.class1.class2` – elementet har **båda klasserna**.
+- `.class1 .class2` – `.class2` finns **inuti** `.class1`.
+- `div p` – alla `<p>` som finns **någonstans inuti** `<div>`.
+- `div > p` – `<p>` är ett **direkt barn** till `<div>`.
+- `div + p` – det första `<p>` som kommer **direkt efter** `<div>`.
+- `p ~ ul` – alla `<ul>` som kommer **efter** en `<p>` på samma nivå.
+
+**Kort sagt:** mellanslag, `>`, `+` och `~` beskriver olika relationer mellan element.
+
