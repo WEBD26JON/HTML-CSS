@@ -29,10 +29,12 @@ https://flexboxfroggy.com/#sv<br>
 https://cssgridgarden.com/#sv<br>
 
 ### Verktyg
+[VSC customization](tools/vsc.md)<br>
 https://code.visualstudio.com/Download<br>
 https://github.com/<br>
 https://filezilla-project.org/<br>
 Arkiverare https://www.youtube.com/watch?v=6ar9NEKBGs8 <br>
+
 
 ### Bilder
 https://pixabay.com/sv/<br>
