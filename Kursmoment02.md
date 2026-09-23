@@ -5,6 +5,7 @@
 - [Fråga #2](#fråga-2)
 - [CSS Selectors](#css-selectors)
 - [Kort förklaring](#kort-förklaring)
+- [Text-transform och Radavstånd](#text-transform)
 - [Block](#block)
 
 [HTML Styles - CSS w3schools](https://www.w3schools.com/html/html_css.asp)
@@ -248,6 +249,27 @@ Det är lätt att blanda ihop några av CSS-selektorerna:
 
 
 [⬆️ Till innehåll](#innehåll)
+
+---
+
+### Text-transform
+```html
+h1 {
+text-transform: uppercase;
+}
+h2 {
+text-transform: capitalize;
+}
+h3 {
+text-transform: lowercase;
+}
+```
+### Radavstånd
+```html
+p{
+line-height: 2em;
+}
+```
 
 ---
 
