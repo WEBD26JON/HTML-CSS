@@ -29,7 +29,9 @@ https://flexboxfroggy.com/#sv<br>
 https://cssgridgarden.com/#sv<br>
 
 ### Verktyg
-[VSC customization](tools/vsc.md)<br>
+[VSC skinns](tools/custom-skinn-vsc.md)<br>
+[VSC profiles](tools/profile-vsc.md)
+<br>
 https://code.visualstudio.com/Download<br>
 https://github.com/<br>
 https://filezilla-project.org/<br>
