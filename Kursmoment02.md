@@ -218,7 +218,7 @@ html {
 
 | Selektor | Exempel | Beskrivning |
 |---|---|---|
-| `.class` | `.intro` | Väljer alla element med `class="intro"` |
+| `.class` | `.intro`       | Väljer alla element med `class="intro"` |
 | `.class1.class2` | `.name1.name2` | Väljer alla element som har både `name1` och `name2` i sitt `class`-attribut |
 | `.class1 .class2` | `.name1 .name2` | Väljer alla element med `name2` som finns inuti ett element med `name1` |
 | `#id` | `#firstname` | Väljer elementet med `id="firstname"` |
