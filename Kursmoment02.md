@@ -245,3 +245,6 @@ Det är lätt att blanda ihop några av CSS-selektorerna:
 
 **Kort sagt:** mellanslag, `>`, `+` och `~` beskriver olika relationer mellan element.
 
+
+[⬆️ Till innehåll](#innehåll)
+
