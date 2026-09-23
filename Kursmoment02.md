@@ -4,6 +4,7 @@
 - [Fråga #1](#fråga-1)
 - [Fråga #2](#fråga-2)
 - [CSS Selectors](#css-selectors)
+- [External Fonts](#external-fonts)
 - [Kort förklaring](#kort-förklaring)
 - [Text-transform och Radavstånd](#text-transform)
 - [Block](#block)
@@ -272,6 +273,26 @@ line-height: 2em;
 ```
 
 ---
+
+### External Fonts
+
+You probably don't like falling back on the fonts stored locally. Luckily, we can always use an external font with the [`@font-face`](https://www.w3schools.com/cssref/css3_pr_font-face_rule.php) rule. Just need to specify the font's name and its path:
+
+`@font-face { font-family: CustomFont; src: url(fonts/custom_font.woff); } html { font-family: CustomFont; }`
+
+Programmers, like everyone else, like freebies, and the go-to place for free fonts is [Google Fonts](https://fonts.google.com/). Here's how to use them:
+
+- Choose the desired font and style.
+- Copy the tags displayed on the right and paste them into the `<head>` of your page:
+
+`<head> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"> </head>`
+
+Woohooo! This font is now available in your CSS:
+
+`body { font-family: 'Roboto', sans-serif; }`
+
+---
+[⬆️ Till innehåll](#innehåll)
 
 # Block 
 
