@@ -5,6 +5,7 @@
 - [Fråga #2](#fråga-2)
 - [CSS Selectors](#css-selectors)
 - [Kort förklaring](#kort-förklaring)
+- [Block](#block)
 
 [HTML Styles - CSS w3schools](https://www.w3schools.com/html/html_css.asp)
 
@@ -248,3 +249,53 @@ Det är lätt att blanda ihop några av CSS-selektorerna:
 
 [⬆️ Till innehåll](#innehåll)
 
+---
+
+# Block 
+
+## Egenskapen display
+
+Med hjälp av egenskapen display kan du t.ex. ändra inline till block.
+```css
+a {
+width: 50px;
+height: 50px;
+background-color: black;
+color: white;
+display: block;
+}
+```
+
+`display: block` placerar varje länk på en egen rad och låter oss ange `width` och `height`. 
+
+## Inline-block
+
+Du kan visa blocken bredvid varandra med display: inline-block
+```css
+a {
+width: 50px;
+height: 50px;
+background-color: black;
+color: white;
+display: inline-block;
+}
+```
+
+```html
+<a href="#">Länk</a>
+<a href="#">Länk</a>
+```
+
+`display: inline-block` låter länkarna ligga bredvid varandra samtidigt som `width` och `height` kan anges.
+
+
+### Skillnaden mellan block och inline-block
+
+`display: block` gör att varje länk tar upp hela raden, så länkarna placeras under varandra.  
+`display: inline-block` gör att länkarna kan placeras bredvid varandra, samtidigt som man kan ange `width` och `height`.
+
+På så sätt kan man ändra hur inline-elementen placeras och hur mycket utrymme de tar på sidan.
+
+---
+
+[⬆️ Till innehåll](#innehåll)
