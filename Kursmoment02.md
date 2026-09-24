@@ -320,7 +320,7 @@ display: block;
 
 `display: block` placerar varje länk på en egen rad och låter oss ange `width` och `height`. 
 
-## Inline-block
+## Inline-block (se också [Inline-block-element](#inline-block-element) )
 
 Du kan visa blocken bredvid varandra med display: inline-block
 ```css
