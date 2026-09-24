@@ -1,4 +1,5 @@
 # Innehåll
+- [Bas HTML document](#Bas-HTML-document)
 - [Tags övning](#tags-övning)
 - [❓ Figure, hgroup, figcaption](#-figure-hgroup-figcaption)
 
@@ -55,7 +56,7 @@ W3S validator<br>
 https://validator.w3.org/#validate_by_uri+with_options<br>
 https://caniuse.com/<br>
 
-**Bas HTML document**<br>
+## Bas HTML document
 
 HTML tags:<br>
 ```
