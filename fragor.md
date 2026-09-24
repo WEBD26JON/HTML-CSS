@@ -16,7 +16,7 @@
 
 ---
 
-# AI svaren
+# AI svar
 
 ### 🤖 #2B gemma4:31b-cloud
 
