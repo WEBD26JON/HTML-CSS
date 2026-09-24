@@ -8,6 +8,7 @@
 - [Text-transform och Radavstånd](#text-transform)
 - [Block](#block)
 - [Margins](#margins)
+- [Box sizing](#box-sizing)
 
 [HTML Styles - CSS w3schools](https://www.w3schools.com/html/html_css.asp)
 
@@ -361,3 +362,68 @@ För att undvika detta kan man använda `padding` på det överordnade elementet
 Både `margin` och `padding` kan anges i procent (`%`) i stället för pixlar. Procentvärdet beräknas utifrån förälderelementets bredd, även för `top` och `bottom`.
 
 Man kan också använda `em` som enhet. Då kopplas avståndet till elementets `font-size`. Det kan skapa en mer harmonisk relation mellan textens storlek och utrymmet runt texten.
+
+## Box sizing  
+
+Egenskapen [**`box-sizing`**](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) påverkar elementets bredd och höjd. Den kan ha två olika värden:
+
+1. `content-box` – **exkluderar** `padding` och `border` från elementets angivna bredd och höjd.
+2. `border-box` – **inkluderar** `padding` och `border` i elementets angivna bredd och höjd.
+
+Här använder vi `box-sizing: border-box`, vilket innebär att själva innehållets bredd blir mindre än `300px`. Det beror på att `border` och `padding` räknas bort från varje sida
+
+
+```css
+.content {
+  box-sizing: border-box;
+  width: 300px;
+  height: 150px;
+
+  margin: 40px;
+  border: 15px solid blue;
+  padding: 30px;
+}
+````
+
+## Block- och inline-element
+
+Det vi har gått igenom ovan fungerar för `div`-element, men inte på samma sätt för `span`. Det beror på att `div` är ett **blockelement** (en rektangulär yta som innehåller innehåll), medan `span` är ett **inline-element** (en del av text som kan sträcka sig över en eller flera rader).
+
+### 1. Blockelement
+
+- Placeras på en egen rad.
+- Tar som standard upp hela bredden av sitt förälderelement.
+- Vi kan ange `width` och `height`.
+- `padding`, `margin` och `border` påverkar det totala utrymmet som elementet tar upp.
+- Exempel är `div`, `p`, `ul`, `li` och `h1`.
+
+### 2. Inline-element
+
+- Placeras på samma rad som andra inline-element.
+- Tar bara upp så mycket bredd som innehållet behöver.
+- Vi kan inte ange `width` och `height` på samma sätt som för blockelement.
+- `padding`, `margin` och `border` ökar inte elementets höjd på samma sätt som för blockelement. Rader intill kan därför överlappa.
+- Exempel är `span`, `a` och `em`.
+
+## Inline-block-element
+
+Ibland behöver vi ange en egen storlek och spacing för ett element som finns inne i texten, till exempel en länk. Då kan vi använda **inline-block**:
+
+```
+.nav__link {  display: inline-block;}
+```
+
+`inline-block` kombinerar egenskaper från både `inline` och `block`.
+
+**Inline** eftersom elementet bara tar upp den bredd som behövs och kan placeras på samma rad som andra element.
+
+**Block** eftersom vi kan ange `width` och `height`, och eftersom `padding`, `border` och `margin` påverkar det utrymme som elementet tar upp i alla riktningar.
+
+**Som standard är `<img>` ett inline-block-element.**
+
+För att bättre förstå skillnaden mellan `inline-block`, `block` och `inline` kan du titta på [**det här exemplet**](https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1)
+
+[⬆️ Till innehåll](#innehåll)
+
+---
+
