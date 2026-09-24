@@ -1,7 +1,7 @@
 # Innehåll
 - [Bas HTML document](#Bas-HTML-document)
 - [Tags övning](#tags-övning)
-- [❓#1 Figure, hgroup, figcaption](#-1-figure-hgroup-figcaption)
+- [❓#1 Figure, hgroup, figcaption](#1-figure-hgroup-figcaption)
 
 # Kursmoment 1. ”Grunderna HTML ”
 
