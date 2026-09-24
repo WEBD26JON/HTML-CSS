@@ -1,7 +1,7 @@
 # Innehåll
 - [Bas HTML document](#Bas-HTML-document)
 - [Tags övning](#tags-övning)
-- [❓ Figure, hgroup, figcaption](#-figure-hgroup-figcaption)
+- [❓ Figure, hgroup, figcaption](#-#1-figure-hgroup-figcaption)
 
 # Kursmoment 1. ”Grunderna HTML ”
 
@@ -73,6 +73,7 @@ https://www.w3schools.com/tags/<br>
 </body>
 </html>
 ```
+[⬆️ Till innehåll](#innehåll)
 
 ## Tags övning
 ```
@@ -158,7 +159,7 @@ https://picsum.photos/<br>
 
 [⬆️ Till innehåll](#innehåll)
 
-# ❓ Figure, hgroup, figcaption
+## ❓#1 Figure, hgroup, figcaption
 
 **Kan du förklara mig användning av `<figure>, <hgroup> och <figcaption>` tagar i den HTML koden?**  
   
