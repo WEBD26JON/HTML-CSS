@@ -1,6 +1,6 @@
 # Innehåll
-- [Bas HTML document](#Bas-HTML-document)
-- [Figure, hgroup, figcaption](#Figure-hgroup-figcaption)
+- [Bas HTML document](#bas-html-document)
+- [Figure, hgroup, figcaption](#figure-hgroup-figcaption)
 
 # Kursmoment 1. ”Grunderna HTML ”
 
