@@ -5,9 +5,9 @@
 - [Fråga #2](#fråga-2)
 - [CSS Selectors](#css-selectors)
 - [External Fonts](#external-fonts)
-- [Kort förklaring](#kort-förklaring)
 - [Text-transform och Radavstånd](#text-transform)
 - [Block](#block)
+- [Margins](#margins)
 
 [HTML Styles - CSS w3schools](https://www.w3schools.com/html/html_css.asp)
 
@@ -349,3 +349,15 @@ På så sätt kan man ändra hur inline-elementen placeras och hur mycket utrymm
 ---
 
 [⬆️ Till innehåll](#innehåll)
+
+## Margins 
+
+### margin collapse
+
+När två element ligger nära varandra utan att det finns `border`, `padding` eller innehåll som separerar deras vertikala marginaler kan marginalerna **slås ihop**. Detta kallas **margin-kollaps** (*margin collapse*).
+
+För att undvika detta kan man använda `padding` på det överordnade elementet. Man kan också ange `margin` endast på ena sidan längs varje axel: `top` och `bottom` för vertikalt avstånd eller `left` och `right` för horisontellt avstånd.
+
+Både `margin` och `padding` kan anges i procent (`%`) i stället för pixlar. Procentvärdet beräknas utifrån förälderelementets bredd, även för `top` och `bottom`.
+
+Man kan också använda `em` som enhet. Då kopplas avståndet till elementets `font-size`. Det kan skapa en mer harmonisk relation mellan textens storlek och utrymmet runt texten.
