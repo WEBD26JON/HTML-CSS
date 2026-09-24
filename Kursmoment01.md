@@ -1,5 +1,5 @@
 # Innehåll
-- [Bas HTML document](#bas-html-document)
+- [Tags övning](#Tags-övning)
 - [Figure, hgroup, figcaption](#figure-hgroup-figcaption)
 
 # Kursmoment 1. ”Grunderna HTML ”
