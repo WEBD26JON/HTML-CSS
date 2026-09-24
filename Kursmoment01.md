@@ -1,6 +1,6 @@
 # Innehåll
-- [Tags övning](#Tags-övning)
-- [Figure, hgroup, figcaption](#figure-hgroup-figcaption)
+- [Tags övning](#tags-övning)
+- [❓ Figure, hgroup, figcaption](#-figure-hgroup-figcaption)
 
 # Kursmoment 1. ”Grunderna HTML ”
 
