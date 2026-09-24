@@ -1,5 +1,6 @@
 # Innehåll
-- [Bas HTML document]#(Bas-HTML-document)
+- [Bas HTML document](#Bas-HTML-document)
+- [Figure, hgroup, figcaption](#Figure-hgroup-figcaption)
 
 # Kursmoment 1. ”Grunderna HTML ”
 
@@ -134,6 +135,8 @@ https://www.w3schools.com/tags/<br>
 </html>
 ```
 
+[⬆️ Till innehåll](#innehåll)
+
 # Lektion 2
 
 Dagens agenda<br>
@@ -151,6 +154,8 @@ https://picsum.photos/<br>
 Övming 1 - [Code](ovningar/ovningar1-4-2026-09-15.html)   -  [www page](https://webd26jon.github.io/HTML-CSS/ovningar/ovningar1-4-2026-09-15.html)
 
 ---
+
+[⬆️ Till innehåll](#innehåll)
 
 # ❓ Figure, hgroup, figcaption
 
@@ -272,4 +277,6 @@ Denna tagg används för att gruppera flera rubriker som hör ihop, vanligtvis e
 *   `<hgroup>` = Gruppering av rubrik och underrubrik.
 
 *(⏱ 2.35s)*
+
+[⬆️ Till innehåll](#innehåll)
 
