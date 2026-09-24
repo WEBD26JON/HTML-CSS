@@ -9,7 +9,7 @@
 - [Block](#block)
 - [Margins](#margins)
 - [Box sizing](#box-sizing)
-- [Block- och inline-element](#block--och-inline--element)
+- [Block- och inline-element](#block-och-inline-element)
 
 [HTML Styles - CSS w3schools](https://www.w3schools.com/html/html_css.asp)
 
