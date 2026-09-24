@@ -4,7 +4,7 @@
    **varför vi ibland sätter margin: 0 och padding: 0, när deras initialvärden redan är 0?**<br>
    Är det för att återställa webbläsarens standardstilar?
 
-2. Kan du förklara lite kort om margin-kollaps ((Margin Collapse)?<br>
+2. Kan du förklara lite kort om margin-kollaps (margin collapse)?<br>
    Jag har förstått att vertikala margins mellan två element kan slås ihop, <br>
    men jag är inte helt säker på när och varför det händer.
 
