@@ -7,7 +7,7 @@ Om ni vill testa får ni gärna använda min Coddy.tech referenslänk:
  eller här:<br>
  [https://coddy.tech/refer?ref=yQMt79SnC1TI](https://coddy.tech/refer?ref=yQMt79SnC1TI)
 
-# Contents
+# Innehåll
 - [Kursmoment 1](https://github.com/WEBD26JON/HTML-CSS/blob/main/Kursmoment01.md)
 - [Kursmoment 2](Kursmoment02.md)
 - 
