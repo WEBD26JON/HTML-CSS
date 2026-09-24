@@ -7,10 +7,13 @@ Om ni vill testa får ni gärna använda min Coddy.tech referenslänk:
  eller här:<br>
  [https://coddy.tech/refer?ref=yQMt79SnC1TI](https://coddy.tech/refer?ref=yQMt79SnC1TI)
 
+ Jag vill också personligen rekommendera studieplattformen [Kodree.com](https://kodree.com/). Den är inte gratis, men enligt min mening är den värd pengarna. Plattformen fokuserar mycket på praktiska övningar och passar bra för den som vill lära sig webbutveckling.
+
+
 # Innehåll
-- [Kursmoment 1](https://github.com/WEBD26JON/HTML-CSS/blob/main/Kursmoment01.md)
-- [Kursmoment 2](Kursmoment02.md)
-- 
+- [Kursmoment 1 - Bas HTML](Kursmoment01.md)
+- [Kursmoment 2 - Bas CSS](Kursmoment02.md)
+
 
 ## Kurslitteratur
 I den här kursen behöver du inte köpa in någon egen kurslitteratur. Om du ändå vill ha en bok så kan jag rekommendera dessa. 
