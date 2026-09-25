@@ -1,4 +1,4 @@
-# Frågor till läraren
+# Frågor 1-3 till läraren
 
 1. Nevena, jag kanske missade den här delen, men det var inte helt uppenbart för mig<br>
    **varför vi ibland sätter margin: 0 och padding: 0, när deras initialvärden redan är 0?**<br>
@@ -13,6 +13,8 @@
    “New Folder” skapas därför alltid i den senast aktiva mappen, <br>
    så jag måste använda Windows Explorer eller terminalen för att skapa en mapp
    direkt under roten.
+
+4. Vad är det för skillnad mellan css egenskaperna som `background` och `background-color`?
 
 ---
 
@@ -51,3 +53,44 @@ I VS Code:s Explorer-panel är roten (den översta mappen) inte ett "klickbart" 
 3.  **Använd kommandopaletten:** Tryck `Ctrl + Shift + P` och sök efter "File: New Folder" (om tillägget stöder det), men de två första metoderna är enklast.
 
 *(⏱ 5.78s)*
+
+---
+
+## ❓Fråga #4
+
+### Vad är det för skillnad mellan css egenskaperna som `background` och `background-color`?
+
+### 🤖 #1B gemma4:31b-cloud
+
+Skillnaden är att `background-color` är en specifik egenskap, medan `background` är en så kallad shorthand-egenskap.
+
+Här är detaljerna:
+
+### 1. background-color
+Denna egenskap gör endast en sak: den sätter en solid bakgrundsfärg på ett element.
+*   **Exempel:** `background-color: blue;`
+
+### 2. background
+Detta är en kombinerad egenskap som låter dig ställa in flera olika bakgrundsvärden i en och samma rad. Den kan kontrollera följande egenskaper samtidigt:
+*   `background-color` (Färg)
+*   `background-image` (Bild)
+*   `background-repeat` (Om bilden ska upprepas)
+*   `background-attachment` (Om bilden ska scrolla eller vara fixerad)
+*   `background-position` (Var bilden ska placeras)
+*   `background-size` (Storleken på bilden)
+
+**Exempel på användning av `background`:**
+```css
+div {
+  background: #ff0000 url("bild.jpg") no-repeat center center;
+}
+```
+I exemplet ovan sätts färgen till röd, en bild läggs till, den sätts att inte upprepas och centreras.
+
+### Sammanfattning
+*   Använd **`background-color`** när du bara vill ändra färgen. Det är tydligare och mer specifikt.
+*   Använd **`background`** när du vill ställa in flera bakgrundsegenskaper samtidigt eller när du använder bakgrundsbilder.
+
+**Viktigt att tänka på:** Om du använder `background` efter att du har satt `background-color`, kommer `background` att skriva över färgen eftersom den nollställer alla andra bakgrundsegenskaper som inte anges i shorthand-raden.
+
+*(⏱ 1.95s)*
