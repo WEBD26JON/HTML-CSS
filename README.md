@@ -13,7 +13,7 @@ Jag vill också personligen rekommendera studieplattformen [Kodree.com](https://
 - [Frågor](fragor.md)
 - [Kursmoment 1 - Grund HTML](Kursmoment01.md)
 - [Kursmoment 2 - Grund CSS](Kursmoment02.md)
-- [Kursmoment 3 - Agila](Kursmoment03.md)
+- [Kursmoment 3 - Agila och Git](Kursmoment03-Agila.md)
 
 ---
 
