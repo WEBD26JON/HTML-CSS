@@ -1,5 +1,8 @@
 # Git och Agila metoder
 
+## Inehåll
+- [Svar till Instuderingsfrågor](#svar-till-Instuderingsfrågor)
+
 https://learn.microsoft.com/en-us/training/paths/github-foundations/
 
 ## Instuderingsfrågor
@@ -22,7 +25,9 @@ https://learn.microsoft.com/en-us/training/paths/github-foundations/
 
 ---
 
-### 🤖 #1A gemma4:31b-cloud
+### Svar till instuderingsfrågor
+
+**🤖 #1A gemma4:31b-cloud**
 
 Hej Alexander. Här är svaren på dina frågor:
 
@@ -85,5 +90,7 @@ Git är ett specifikt, distribuerat versionshanteringssystem som körs lokalt p�
 GitHub är en molnbaserad plattform som hostar Git-projekt. Det gör det möjligt för utvecklare att lagra sin kod online, samarbeta med andra och dela sina projekt med världen.
 
 *(⏱ 9.04s)*
+
+[⬆️ Till innehåll](#innehåll)
 
 ---
