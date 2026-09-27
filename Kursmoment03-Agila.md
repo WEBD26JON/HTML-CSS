@@ -3,7 +3,7 @@
 ## Inehåll
 - [Svar till Instuderingsfrågor](#svar-till-Instuderingsfrågor)
 
-{GitHub Foundations Docs](https://learn.microsoft.com/en-us/training/paths/github-foundations/)
+[GitHub Foundations Docs](https://learn.microsoft.com/en-us/training/paths/github-foundations/)
 
 ## Instuderingsfrågor
 
