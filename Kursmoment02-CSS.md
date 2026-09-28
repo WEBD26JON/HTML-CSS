@@ -221,6 +221,8 @@ html {
 
 # CSS Selectors
 
+[CSS Selectors Reference](https://w3schools.dev/cssref/css_selectors.php)
+
 | Selektor | Exempel | Beskrivning |
 |---|---|---|
 | `.class` | `.intro`       | Väljer alla element med `class="intro"` |
