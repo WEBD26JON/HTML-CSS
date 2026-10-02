@@ -80,7 +80,7 @@ Antag att det är fyra personer i er grupp.
 ### Steg 1. Skapa projekt i Jira
 Varje deltagare skapar ett konto i Jira. <br>
 <img src="img/step02.jpg" width="240"><br>
-En av deltagarna **(H)** skapar ett gemensamt projekt och bjuder in de övriga. - **KLART**
+En av deltagarna **(Husein)** skapar ett gemensamt projekt och bjuder in de övriga. - **KLART**
 I Jira kommer ni att hantera alla uppgifter, följa upp genomförandet och se det gemensamma framsteget.
 
 ### Steg 2. Skapa en önskelista (Product Backlog)
@@ -157,8 +157,8 @@ I Scrum finns olika roller, men i denna övning kan de fördelas enligt följand
 
 | Roll | Uppgift | Ansvarig person |
 | :--- | :--- | :--- |
-| Product Owner | Prioriterar User Stories och formar Product Backlog | **- J.G** |
-| Scrum Master | Hjälper till att organisera Scrum-processen och tar bort hinder | **- H.H**  |
+| Product Owner | Prioriterar User Stories och formar Product Backlog | **- Jana** |
+| Scrum Master | Hjälper till att organisera Scrum-processen och tar bort hinder | **- Husein**  |
 | Development Team | Genomför uppgifterna gemensamt och förbereder resultatet | **- Alexander och Fredrik**  |
 
 I en liten studiegrupp kan rollerna kombineras, och alla deltagare ska delta i planering och diskussioner.
