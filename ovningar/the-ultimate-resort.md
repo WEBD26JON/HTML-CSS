@@ -141,11 +141,11 @@ Om ni har genomfört flera iterationer, visa resultaten från var och en av dem.
 ## 5. Roller och ansvarsområden
 I Scrum finns olika roller, men i denna övning kan de fördelas enligt följande:
 
-| Roll | Uppgift |
-| :--- | :--- |
-| Product Owner | Prioriterar User Stories och formar Product Backlog |
-| Scrum Master | Hjälper till att organisera Scrum-processen och tar bort hinder |
-| Development Team | Genomför uppgifterna gemensamt och förbereder resultatet |
+| Roll | Uppgift | Ansvarig person |
+| :--- | :--- | :--- |
+| Product Owner | Prioriterar User Stories och formar Product Backlog | **- J.G** |
+| Scrum Master | Hjälper till att organisera Scrum-processen och tar bort hinder | **- H.H**  |
+| Development Team | Genomför uppgifterna gemensamt och förbereder resultatet | **- Alexander och Fredrik**  |
 
 I en liten studiegrupp kan rollerna kombineras, och alla deltagare ska delta i planering och diskussioner.
 
