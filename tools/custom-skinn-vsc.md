@@ -48,7 +48,7 @@
    	 "statusBar.background": "#0D151B"
 	}
 
-// evempel3, orange
+// exempel3, orange
 {
     "workbench.colorCustomizations": {
         "titleBar.activeBackground": "#C55200",
