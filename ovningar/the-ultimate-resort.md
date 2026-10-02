@@ -38,6 +38,20 @@ synlighet i allt arbete som pågår.
 
 ---
 
+## Grupp 1 – Tillgänglighet för möten
+
+| Dag       | Alexander | Fredrik          | Jana | Husein |
+|-----------|-----------|------------------|------|--------|
+| Måndag    |    NA     | Valfri tid       |      |        |
+| Tisdag    |   10-12   | 13:00–17:00      |      |        |
+| Onsdag    |   13-14   | 13:00–17:00      |      |        |
+| Torsdag   |   13-14   | 13:00–17:00      |      |        |
+| Fredag    |    NA     | Valfri tid       |      |        |
+| Lördag    |    NA     | Helst undviks    |      |        |
+| Söndag    |    NA     | Helst undviks    |      |        |
+
+
+
 # TFM
 
 ### 🤖 #1A gemma4:31b-cloud
