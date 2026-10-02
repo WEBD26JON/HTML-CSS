@@ -63,26 +63,31 @@ Er uppgift är att komma överens om vad ni skulle vilja se i en reklambroschyr 
 ## 2. Steg-för-steg-instruktioner
 Antag att det är fyra personer i er grupp. 
 
-<img src="img/step02.jpg" width="240">
+### Steg 1. Skapa projekt i Jira
+Varje deltagare skapar ett konto i Jira. <br>
+<img src="img/step02.jpg" width="240"><br>
+En av deltagarna **(H)** skapar ett gemensamt projekt och bjuder in de övriga. - **KLART**
+I Jira kommer ni att hantera alla uppgifter, följa upp genomförandet och se det gemensamma framsteget.
 
-**Steg 1. Skapa projekt i Jira**
-Varje deltagare skapar ett konto i Jira. En av deltagarna skapar ett gemensamt projekt och bjuder in de övriga. I Jira kommer ni att hantera alla uppgifter, följa upp genomförandet och se det gemensamma framsteget.
-
-**Steg 2. Skapa en önskelista (Product Backlog)**
-Diskutera tillsammans vad som ska finnas i er broschyr eller på landningssidan. Skriv sedan ner varje önskemål i form av en User Story (användarberättelse).
+### Steg 2. Skapa en önskelista (Product Backlog)
+Diskutera tillsammans vad som ska finnas i er broschyr eller på landningssidan. Skriv sedan ner varje önskemål i form av en User Story (användarberättelse).<br>
+<img src="img/step03.jpg" width="240"><br>
 Exempel:
 - Som förälder vill jag se information om barnaktiviteter, för att förstå om resorten passar min familj.
 - Som turist vill jag se bilder på stranden, för att kunna bedöma semesterstället.
 - Som ägare av resorten vill jag marknadsföra specialerbjudanden, för att locka fler turister.
 Varje story skapas i Jira som ett separat kort.
 
-**Steg 3. Välj Product Owner och prioritera**
-En av deltagarna blir Product Owner (produktägare). Dennes uppgift är att organisera prioriteringen av alla User Stories och ordna dem efter viktighet för att forma Product Backlog.
+### Steg 3. Välj Product Owner och prioritera
+En av deltagarna blir Product Owner (produktägare).<br> 
+<img src="img/step04.jpg" width="240"><br>
+Dennes uppgift är att organisera prioriteringen av alla User Stories och ordna dem efter viktighet för att forma Product Backlog.
 Exempelvis: först bilder på resorten och grundläggande information, sedan aktiviteter och specialerbjudanden.
 
-**Steg 4. Planera första iterationen (Sprint Planning)**
+### Steg 4. Planera första iterationen (Sprint Planning)
 I denna övning varar en iteration (Sprint) i 60 minuter och delas upp i tre fiktiva arbetsdagar på 20 minuter vardera.
-Teamet väljer ut några User Stories från Product Backlog som de realistiskt kan genomföra under denna iteration.
+Teamet väljer ut några User Stories från Product Backlog som de realistiskt kan genomföra under denna iteration.<br>
+<img src="img/step05.jpg" width="240"><br>
 För varje vald story ska ni:
 - Definiera acceptanskriterier (Acceptance Criteria) – vad som måste vara gjort för att storyn ska räknas som klar.
 - Dela upp storyn i konkreta uppgifter (Tasks).
@@ -92,8 +97,10 @@ Exempel för storyn om bilder:
 - Förbereda bildtexter.
 - Placera materialet i broschyrutkastet.
 
-**Steg 5. Genomför Sprinten (tre fiktiva arbetsdagar)**
-I början av varje 20-minutersetapp hålls en kort Daily Scrum (dagligt möte). Varje deltagare berättar:
+### Steg 5. Genomför Sprinten (tre fiktiva arbetsdagar)
+I början av varje 20-minutersetapp hålls en kort Daily Scrum (dagligt möte). <br>
+<img src="img/step04.jpg" width="240"><br>
+Varje deltagare berättar:
 - Vad jag har gjort.
 - Vad jag planerar att göra härnäst.
 - Om det finns några hinder.
@@ -103,7 +110,7 @@ Därefter flyttar deltagarna korten i Jira mellan kolumnerna:
 - Klart – slutfört.
 Efter mötet arbetar var och en med sina valda uppgifter. Det är inte nödvändigt att skriva kod; ni kan förbereda text, leta bilder eller göra ett enkelt utkast.
 
-**Steg 6. Demo och Retrospective**
+### Steg 6. Demo och Retrospective
 Efter att den 60 minuter långa iterationen är slut demonstrerar teamet resultatet (Demo). Detta kan vara ett ofärdigt utkast eller en samling förberedda material.
 Därefter hålls en Retrospective (utvärdering) där ni diskuterar:
 - Vad gick bra?
