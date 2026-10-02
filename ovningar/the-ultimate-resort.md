@@ -50,6 +50,8 @@ Hela arbetet är beräknat till 60–90 minuter och bedöms inte med betyg.
 **1. Vad ni ska skapa**
 Er grupp ska komma på ett koncept för sin ideala resort (The ultimate resort).
 
+<img src="img/resort01.jpg" width="190">
+
 Till exempel kan det vara en familjeresort vid havet som har:
 - Hotell med havsutsikt.
 - Barnpool och lekplats.
@@ -58,8 +60,10 @@ Till exempel kan det vara en familjeresort vid havet som har:
 - Specialerbjudanden för turister.
 Er uppgift är att komma överens om vad ni skulle vilja se i en reklambroschyr eller på en landningssida för denna resort.
 
-**2. Steg-för-steg-instruktioner**
-Antag att det är fyra personer i er grupp.
+## 2. Steg-för-steg-instruktioner
+Antag att det är fyra personer i er grupp. 
+
+<img src="img/step02.jpg" width="240">
 
 **Steg 1. Skapa projekt i Jira**
 Varje deltagare skapar ett konto i Jira. En av deltagarna skapar ett gemensamt projekt och bjuder in de övriga. I Jira kommer ni att hantera alla uppgifter, följa upp genomförandet och se det gemensamma framsteget.
@@ -107,7 +111,7 @@ Därefter hålls en Retrospective (utvärdering) där ni diskuterar:
 - Vad kan förbättras i nästa iteration?
 Om tiden tillåter kan ni upprepa iterationen.
 
-**3. Hur det kan se ut i Jira**
+## 3. Hur det kan se ut i Jira
 Exempelvis kan er Product Backlog innehålla följande kort:
 
 | User Story | Prioritet | Status |
@@ -120,14 +124,14 @@ Exempelvis kan er Product Backlog innehålla följande kort:
 
 Detta är bara ett exempel. Prioriteringarna bestäms av ert team. För en vald User Story kan ni skapa underuppgifter (Subtasks), tilldela dem till gruppmedlemmar och följa upp genomförandet i Jira.
 
-**4. Vad som ska lämnas in till läraren**
+## 4. Vad som ska lämnas in till läraren
 **Inlämning — textdokument**
 Enligt uppgiften ska ni förbereda ett dokument som innehåller:
 - Skärmdumpar eller liknande material från demonstrationen (Demo) efter varje iteration.
 - Frågor som uppstod under övningen.
 Om ni har genomfört flera iterationer, visa resultaten från var och en av dem. En färdig webbplats, fullständig broschyr eller fungerande prototyp krävs inte.
 
-**5. Roller och ansvarsområden**
+## 5. Roller och ansvarsområden
 I Scrum finns olika roller, men i denna övning kan de fördelas enligt följande:
 
 | Roll | Uppgift |
@@ -138,7 +142,7 @@ I Scrum finns olika roller, men i denna övning kan de fördelas enligt följand
 
 I en liten studiegrupp kan rollerna kombineras, och alla deltagare ska delta i planering och diskussioner.
 
-**6. Vad som faktiskt förväntas av er**
+## 6. Vad som faktiskt förväntas av er
 Huvudmålet är inte att skapa en produkt, utan att prova Scrum i praktiken.
 1. Lära sig formulera krav som User Stories.
 2. Förstå hur Product Backlog fungerar och hur prioritering går till.
