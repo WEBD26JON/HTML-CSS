@@ -63,7 +63,7 @@ Ett kort dagligt möte där alla berättar vad de gjorde i går, vad de planerar
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/0d9/296/f02/0d9296f02ddb1f8732b0d9d053dfe4cc.png"
      alt="Blog sobre project management y trabajo en equipo con Projoodle"
-     width="400">
+     width="600">
      
 ### Sprint Review
 
@@ -72,7 +72,7 @@ En presentation av det som teamet har hunnit göra under arbetscykeln. I praktik
 
 <img src="ovningar/img/sprint-review.jpg"
      alt="Sprint review"
-     width="400">
+     width="600">
      
 ### Retrospective
 
@@ -93,7 +93,7 @@ Hela **Scrum-teamet** har ett gemensamt **ansvar** för att skapa ett värdefull
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/0bb/789/fa9/0bb789fa9a1109f25087281c8e2ff2de.png"
 alt="Scrum-teamets ansvar"
-     width="400">
+     width="600">
 
 ### Developers
 
@@ -101,7 +101,7 @@ alt="Scrum-teamets ansvar"
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/35a/b62/6fa/35ab626fa4fd1eb55b5ee16f4a353f0b.png"
 alt="Developers"
-     width="400">
+     width="600">
      
 ### Product Owner
 
@@ -109,7 +109,7 @@ alt="Developers"
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/e0d/bb4/d2e/e0dbb4d2ece61afc1f6ba7654b0785d7.png"
 alt="Product Owners"
-     width="400">
+     width="600">
 
 ### Scrum Master
 
