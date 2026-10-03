@@ -86,7 +86,10 @@ En diskussion efter att arbetscykeln har avslutats: vad som gick bra, vad som in
 
 ---
 
-## Scrum-teamets ansvar
+# Scrum-team
+
+A Scrum Team is a small, self-managing, and cross-functional unit of typically 10 
+or fewer people who work together to deliver a valuable product increment every sprint
 
 <img src="ovningar/img/scrum-team.jpg"
      alt="A man's hand holds a pen and writes a check list with checkboxes, a wooden table Time management concept"
