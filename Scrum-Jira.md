@@ -37,7 +37,8 @@ Till exempel: skapa en inloggningssida, lägga till registrering, skapa en meny 
      
 ### Sprint
 
-En bestämd tidsperiod, vanligtvis en eller två veckor, då teamet planerar att slutföra en del av uppgifterna. Det är helt enkelt en arbetscykel med en tydlig start och ett tydligt slut.
+En bestämd tidsperiod, vanligtvis en eller två veckor, då teamet planerar att slutföra en del av uppgifterna.<br> 
+Det är helt enkelt en arbetscykel med en tydlig start och ett tydligt slut.
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/c27/46f/2b0/c2746f2b062da27c9449d3a702198400.png"
      alt="Sprint"
@@ -62,7 +63,8 @@ Ett kort dagligt möte där alla berättar vad de gjorde i går, vad de planerar
      
 ### Sprint Review
 
-En presentation av det som teamet har hunnit göra under arbetscykeln. I praktiken handlar det om att visa upp ett fungerande resultat och få återkoppling.
+En presentation av det som teamet har hunnit göra under arbetscykeln. <br>
+I praktiken handlar det om att visa upp ett fungerande resultat och få återkoppling.
 
 <img src="ovningar/img/sprint-review.jpg"
      alt="Sprint review"
