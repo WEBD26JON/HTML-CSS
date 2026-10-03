@@ -101,7 +101,7 @@ GitHub är en molnbaserad plattform som hostar Git-projekt. Det gör det möjlig
 
 Inom engelsk rugby är *scrum* en spelsituation där spelare från båda lagen går ihop i en tät formation och gemensamt försöker vinna bollen.
 
-<img src="ovningar/img/scrum.jpg" width="350">
+<img src="ovningar/img/scrum.jpg" width="550">
 
 Inom programmering och projektledning kommer begreppet från de japanska forskarna **Hirotaka Takeuchi och Ikujiro Nonaka**, som 1986 publicerade artikeln *The New New Product Development Game* i Harvard Business Review. De jämförde ett teams gemensamma arbete med en rugbyscrum, där deltagarna samarbetar för att föra bollen framåt i stället för att lämna över arbetet till varandra steg för steg.
 
