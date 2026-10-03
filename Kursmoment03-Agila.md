@@ -94,3 +94,24 @@ GitHub är en molnbaserad plattform som hostar Git-projekt. Det gör det möjlig
 [⬆️ Till innehåll](#innehåll)
 
 ---
+
+# Scrum och likadant skit
+
+**Scrum (uttalas ungefär "skram") är ingen förkortning.** Det är ett vanligt engelskt ord som ursprungligen kommer från rugby.
+
+Inom engelsk rugby är *scrum* en spelsituation där spelare från båda lagen går ihop i en tät formation och gemensamt försöker vinna bollen.
+
+Inom programmering och projektledning kommer begreppet från de japanska forskarna **Hirotaka Takeuchi och Ikujiro Nonaka**, som 1986 publicerade artikeln *The New New Product Development Game* i Harvard Business Review. De jämförde ett teams gemensamma arbete med en rugbyscrum, där deltagarna samarbetar för att föra bollen framåt i stället för att lämna över arbetet till varandra steg för steg.
+
+I början av 1990-talet anpassade Jeff Sutherland och Ken Schwaber denna idé till utveckling av mjukvara.
+
+**Översatt till ett enklare språk:**
+
+Scrum är ett sätt att organisera arbetet där ett team inte arbetar som på ett löpande band, där en person avslutar sin del och lämnar över den till nästa. I stället arbetar teamet tillsammans för att driva projektet framåt och regelbundet kontrollera resultaten.
+
+Det engelska ordet *scrum* har historiskt samband med *scrummage*, som syftar på en tät samling eller en klunga av spelare.
+
+Man behöver alltså inte försöka hitta någon förkortning eller komplicerad teori bakom namnet. Föreställ dig helt enkelt ett rugbylag där spelarna samarbetar för att föra bollen framåt. Det är den metaforen som ligger bakom namnet Scrum.
+
+[Övning med arbetsgruppen ”The ultimate resort”](/ovningar/the-ultimate-resort.md)
+
