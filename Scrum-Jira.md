@@ -11,7 +11,7 @@ Vi börjar med det minst roliga. Här är de viktigaste begreppen från dokument
      alt="Home"
      width="300">
 
-### Scrum
+### Scrum team
 
 Просто способ организовать работу над программой небольшими этапами. Вместо того чтобы пытаться сделать всё сразу, команда разбивает работу на короткие периоды, проверяет результат и продолжает.<br>
 Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I stället för att försöka göra allt på en gång delar teamet upp arbetet i korta perioder, kontrollerar resultatet och fortsätter sedan.
@@ -42,6 +42,7 @@ En lista över allt som någon gång behöver göras i projektet. Till exempel: 
 
 Определённый промежуток времени, обычно одна или две недели, за который команда планирует выполнить часть задач. Это просто рабочий цикл с установленными началом и концом.<br>
 En bestämd tidsperiod, vanligtvis en eller två veckor, då teamet planerar att slutföra en del av uppgifterna. Det är helt enkelt en arbetscykel med en tydlig start och ett tydligt slut.
+
 <img src="https://images.openai.com/static-rsc-4/K02vnlQz_UdVnlCjHkcd_-RBHuAR73i97WOnRnarua8Po9jy2WN6W1zgbmUvnj5gHiXSj1Ss9bF9xujBq9WR77OV3_wguPlUlB2EID0IKFNKwNyxgL54IQ1mmgnGhjGPIoxDDspmOzMMtlkI5ElX03bMMmSWdQOBnphFePKvf-6DNfQX2e892FDcPgXG7URe?purpose=fullsize"
      alt="UX graphic designer planning application process development prototype wireframe for web smart phone"
      width="400">
@@ -77,6 +78,54 @@ En presentation av det som teamet har hunnit göra under arbetscykeln. I praktik
 
 Обсуждение после завершения цикла: что получилось, что не получилось и что можно изменить в следующий раз.<br>
 En diskussion efter att arbetscykeln har avslutats: vad som gick bra, vad som inte fungerade och vad man kan förändra till nästa gång.
+
+---
+
+## Scrum-teamets ansvar
+
+Hela **Scrum-teamet** har ett gemensamt **ansvar** för att skapa ett värdefullt och användbart **Increment** under varje Sprint.
+
+> Det är viktigt att komma ihåg att ett Increment inte automatiskt innebär en release. Scrum kräver inte att en ny version av produkten släpps efter varje Sprint.
+
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/0bb/789/fa9/0bb789fa9a1109f25087281c8e2ff2de.png"
+alt="Scrum-teamets ansvar"
+     width="400">
+
+<img src="https://alexey-avdeev.com/project-management/"
+alt="project-managementr"
+     width="400">
+
+### Developers
+
+**Developers** är de personer i Scrum-teamet som bidrar till att skapa alla delar av ett färdigt och användbart Increment under varje Sprint.
+
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/35a/b62/6fa/35ab626fa4fd1eb55b5ee16f4a353f0b.png"
+alt="Developers"
+     width="400">
+
+<img src="https://kartinki.pibig.info/18764-mezhdunarodnyj-den-programmistov-kartinki.html"
+alt="Developers"
+     width="400">
+     
+### Product Owner
+
+**Product Owner** ansvarar för att **maximera värdet av produkten** som skapas genom Scrum-teamets arbete.
+
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/e0d/bb4/d2e/e0dbb4d2ece61afc1f6ba7654b0785d7.png"
+alt="Product Owners"
+     width="400">
+     
+<img src="https://imghub.ru/product-owner-eto"
+alt="Product Owners"
+     width="400">
+
+### Scrum Master
+
+**Scrum Master** ansvarar för att **Scrum tillämpas** i enlighet med Scrumguiden. Detta gör de genom att hjälpa alla att förstå Scrums teori och arbetssätt, både inom Scrum-teamet och i organisationen.
+
+> Det är viktigt att förstå att en Scrum Master inte bara är en chef som talar om för teamet hur arbetet ska utföras. Det är en person som **utbildar** teamet och **hjälper** det att arbeta enligt Scrum-metodiken genom att undanröja hinder.
+>
+> Scrum Master behöver inte själv delta aktivt i alla möten. Till exempel är det inte ett krav att Scrum Master deltar i Daily Scrum. Uppgiften är bland annat att lära teamet att hålla mötet inom 15 minuter, så att teamet sedan kan genomföra det självständigt.
 
 
 
