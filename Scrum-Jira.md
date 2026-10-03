@@ -36,7 +36,7 @@ En lista över allt som någon gång behöver göras i projektet. Till exempel: 
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/3e0/ccd/a07/3e0ccda078d8c2fc17b213e69e1695bc.png"
      alt="Backlog"
-     width="400">
+     width="600">
      
 ### Sprint
 
