@@ -45,7 +45,8 @@ En bestämd tidsperiod, vanligtvis en eller två veckor, då teamet planerar att
      
 ### User Story
 
-En beskrivning av vad användaren vill kunna göra i programmet. Till exempel: ”Som användare vill jag skapa ett konto så att jag kan se mina tidigare köp.”
+En beskrivning av vad användaren vill kunna göra i programmet. <br>
+Till exempel: ”Som användare vill jag skapa ett konto så att jag kan se mina tidigare köp.”
 
 <img src="https://t2informatik.de/en/wp-content/uploads/sites/2/2024/01/user-story-smartpedia.jpg"
      alt="User story"
