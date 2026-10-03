@@ -91,7 +91,7 @@ Exempel:
 Varje story skapas i Jira som ett separat kort.
 
 ### Steg 3. Välj Product Owner och prioritera
-En av deltagarna blir Product Owner (produktägare).<br> 
+En av deltagarna blir **Product Owner (produktägare)** - Jana.<br> 
 <img src="img/step04.jpg" width="240"><br>
 Dennes uppgift är att organisera prioriteringen av alla User Stories och ordna dem efter viktighet för att forma Product Backlog.
 Exempelvis: först bilder på resorten och grundläggande information, sedan aktiviteter och specialerbjudanden.
