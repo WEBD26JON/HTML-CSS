@@ -34,8 +34,8 @@ Ett vanligt program för att hålla reda på uppgifter. Man kan skapa en att gö
 Список всего, что когда-либо потребуется сделать в проекте. Например: создать страницу входа, сделать регистрацию, добавить меню, исправить ошибки.<br>
 En lista över allt som någon gång behöver göras i projektet. Till exempel: skapa en inloggningssida, lägga till registrering, skapa en meny och åtgärda fel.
 
-<img src="https://images.openai.com/static-rsc-4/YQgNL4Gm3vDYkxtQA9U0cy4H1lXx22Rev8fp3vxcWljIRx29Vj_tdcMkG5ZfBkDEWhAHpzij-IcaTGaUvbAfG8sB9pAIJZnFSkiveRYbL6o_FHs_gtdobXQnSbure6WkTqQ1VtqFcJf2DxPGlkPCNchnCDEbF_e43pc_1NC3UeHDH1DcpqXwXxLeZCmlg-9F?purpose=fullsize"
-     alt="Calendar Weekly plan Doing business or activities with in a week"
+<img src="https://images.openai.com/static-rsc-4/YQgNL4Gm3vDYkxtQA9U0cy4H1lXx22Rev8fp3vxcWljIRx29Vj_tdcMkG5ZfBkDEWhAHpzij-IcaTGaUvbAfG8sB9pAIJZnFSkiveRYbL6o_FHs_gtdobXQnSbure6WkTqQ1VtqFcJf2DxPGlkPCNchnCDEbF_e43pc_1NC3UeHDH1DcpqXwXxLeZCmlg-9F?purpose=fullsize](https://habrastorage.org/r/w1560/getpro/habr/upload_files/3e0/ccd/a07/3e0ccda078d8c2fc17b213e69e1695bc.png"
+     alt="Backlog"
      width="400">
      
 ### Sprint
