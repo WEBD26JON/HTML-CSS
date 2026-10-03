@@ -2,9 +2,8 @@
 
 [HABR](https://habr.com/en/articles/825354/)
 
-## 1. Переводим эльфийского на человеческй - Från alviska till begripligt språk
+## 1. Från alviska till begripligt språk
 
-Начнём с самого неприятного. Вот основные термины из документа, но без академических объяснений.<br>
 Vi börjar med det minst roliga. Här är de viktigaste begreppen från dokumentet, men utan akademiska förklaringar.
 
 <img src="ovningar/img/alviska2human.jpg"
@@ -13,7 +12,6 @@ Vi börjar med det minst roliga. Här är de viktigaste begreppen från dokument
 
 ### Scrum
 
-Просто способ организовать работу над программой небольшими этапами. Вместо того чтобы пытаться сделать всё сразу, команда разбивает работу на короткие периоды, проверяет результат и продолжает.<br>
 Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I stället för att försöka göra allt på en gång delar teamet upp arbetet i korta perioder, kontrollerar resultatet och fortsätter sedan.
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/5a1/22e/4c8/5a122e4c8bc13b5927fb0022bd2dcfcc.png"
@@ -22,7 +20,6 @@ Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I ställe
      
 ### Jira
 
-Обычная программа для учёта задач. Можно создать список дел, назначить исполнителей и перемещать карточки между колонками «Нужно сделать», «В работе» и «Готово».<br>
 Ett vanligt program för att hålla reda på uppgifter. Man kan skapa en att göra-lista, tilldela uppgifter till olika personer och flytta kort mellan kolumnerna ”Att göra”, ”Pågår” och ”Klart”.
 
 <img src="https://images.openai.com/static-rsc-4/83OBou1lKxax9xhXbGMzmYilMILgJxM2oKYyPjSda0_Qoq9oAtN4pWVCKAXzzqamA_QlHvlzijJRWAlAz3lN7RIVAOk99epkEcozd2yxKhDHAVZ1waq2f6151RR3bkWO7iT-Ag-50IYPTG7CMdVMNA9ai4_oMr-jsqOrt0RwPOOdz3PA4GIrN8Ho5jhz1XSO?purpose=fullsize"
@@ -31,7 +28,6 @@ Ett vanligt program för att hålla reda på uppgifter. Man kan skapa en att gö
 
 ### Backlog
 
-Список всего, что когда-либо потребуется сделать в проекте. Например: создать страницу входа, сделать регистрацию, добавить меню, исправить ошибки.<br>
 En lista över allt som någon gång behöver göras i projektet. Till exempel: skapa en inloggningssida, lägga till registrering, skapa en meny och åtgärda fel.
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/3e0/ccd/a07/3e0ccda078d8c2fc17b213e69e1695bc.png"
@@ -40,7 +36,6 @@ En lista över allt som någon gång behöver göras i projektet. Till exempel: 
      
 ### Sprint
 
-Определённый промежуток времени, обычно одна или две недели, за который команда планирует выполнить часть задач. Это просто рабочий цикл с установленными началом и концом.<br>
 En bestämd tidsperiod, vanligtvis en eller två veckor, då teamet planerar att slutföra en del av uppgifterna. Det är helt enkelt en arbetscykel med en tydlig start och ett tydligt slut.
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/c27/46f/2b0/c2746f2b062da27c9449d3a702198400.png"
@@ -49,7 +44,6 @@ En bestämd tidsperiod, vanligtvis en eller två veckor, då teamet planerar att
      
 ### User Story
 
-Описание того, что пользователь хочет получить от программы. Например: «Как пользователь, я хочу создать аккаунт, чтобы просматривать свои предыдущие покупки».<br>
 En beskrivning av vad användaren vill kunna göra i programmet. Till exempel: ”Som användare vill jag skapa ett konto så att jag kan se mina tidigare köp.”
 
 <img src="ovningar/img/user-story.jpg"
@@ -58,7 +52,6 @@ En beskrivning av vad användaren vill kunna göra i programmet. Till exempel: �
 
 ### Daily Standup
 
-Короткое ежедневное собрание, на котором каждый говорит, что сделал вчера, что собирается делать сегодня и что ему мешает.<br>
 Ett kort dagligt möte där alla berättar vad de gjorde i går, vad de planerar att göra i dag och om det finns något som hindrar dem från att arbeta.
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/0d9/296/f02/0d9296f02ddb1f8732b0d9d053dfe4cc.png"
@@ -67,7 +60,6 @@ Ett kort dagligt möte där alla berättar vad de gjorde i går, vad de planerar
      
 ### Sprint Review
 
-Демонстрация того, что команда успела сделать за рабочий цикл. По сути, показать работающий результат и получить отзывы.<br>
 En presentation av det som teamet har hunnit göra under arbetscykeln. I praktiken handlar det om att visa upp ett fungerande resultat och få återkoppling.
 
 <img src="ovningar/img/sprint-review.jpg"
@@ -76,7 +68,6 @@ En presentation av det som teamet har hunnit göra under arbetscykeln. I praktik
      
 ### Retrospective
 
-Обсуждение после завершения цикла: что получилось, что не получилось и что можно изменить в следующий раз.<br>
 En diskussion efter att arbetscykeln har avslutats: vad som gick bra, vad som inte fungerade och vad man kan förändra till nästa gång.
 
 <img src="ovningar/img/sprint-retrospektiv.jpg"
