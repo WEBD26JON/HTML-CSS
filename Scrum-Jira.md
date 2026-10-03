@@ -70,7 +70,7 @@ Ett kort dagligt möte där alla berättar vad de gjorde i går, vad de planerar
 Демонстрация того, что команда успела сделать за рабочий цикл. По сути, показать работающий результат и получить отзывы.<br>
 En presentation av det som teamet har hunnit göra under arbetscykeln. I praktiken handlar det om att visa upp ett fungerande resultat och få återkoppling.
 
-<img src="https://images.openai.com/static-rsc-4/yvMkftnnYWOdWZIXeZ6ZHInM4_zUodmjO6CoucdhZQCpkg2dH_kvlhFQuNFGSmDiT3C78e2oAyMLzfD9_F2VNeKsUd8V0DQQptS6H_1KjzcE9DSCcbNqs6qi3PsiNX6XMaoohHPndovOuEWNPgvgbL8o9s_URKfTCl2XUbT0ghOrWyWkmN_hMjcn0_EiXcq_?purpose=fullsize"
+<img src="ovningar/img/sprint-review.jpg"
      alt="Sprint review"
      width="400">
      
