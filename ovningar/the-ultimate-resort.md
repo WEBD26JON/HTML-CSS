@@ -7,7 +7,7 @@ skriva user stories för broschyren (t.ex. som förälder vill jag ha en barnvä
 jag kan känna mig bekväm med att ta med barn; Som ägare vill jag annonsera ett specialerbjudande 
 så att jag kan locka fler semesterfirare; osv.). 
 
-Teamets valda ##produktägare## (Jana) måste sedan prioritera varje berättelse genom att placera korten i 
+Teamets valda **produktägare** (Jana) måste sedan prioritera varje berättelse genom att placera korten i 
 prioritetsordning, bygga produktbacklogen. 
 
 Teamen förbereder sig sedan för en 60 minuters iteration (tre 20-minutersdagar) genom att välja 
