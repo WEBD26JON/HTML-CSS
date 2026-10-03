@@ -28,7 +28,8 @@ Ett vanligt program för att hålla reda på uppgifter. Man kan skapa en att gö
 
 ### Backlog
 
-En lista över allt som någon gång behöver göras i projektet. Till exempel: skapa en inloggningssida, lägga till registrering, skapa en meny och åtgärda fel.
+En lista över allt som någon gång behöver göras i projektet.<br> 
+Till exempel: skapa en inloggningssida, lägga till registrering, skapa en meny och åtgärda fel.
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/3e0/ccd/a07/3e0ccda078d8c2fc17b213e69e1695bc.png"
      alt="Backlog"
