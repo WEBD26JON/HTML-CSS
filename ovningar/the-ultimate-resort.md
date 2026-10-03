@@ -1,4 +1,4 @@
-# Övning med arbetsgruppen ”The ultimate resort”
+<img width="481" height="372" alt="image" src="https://github.com/user-attachments/assets/f5a3c2a8-4c40-4eea-ab81-e86ddaf987a1" /># Övning med arbetsgruppen ”The ultimate resort”
 
 ## Kursmoment 3 - "Agila arbetsmetoder" · Inlämningsuppgift
 
@@ -40,15 +40,15 @@ synlighet i allt arbete som pågår.
 
 ## Grupp 1 – Tillgänglighet för möten
 
-| Dag       | Alexander | Fredrik          | Jana | Husein |
-|-----------|-----------|------------------|------|--------|
-| Måndag    |    NA     | Valfri tid       |      |        |
-| Tisdag    |   10-12   | 13:00–17:00      |      |        |
-| Onsdag    |   13-14   | 13:00–17:00      |      |        |
-| Torsdag   |   13-14   | 13:00–17:00      |      |        |
-| Fredag    |    NA     | Valfri tid       |      |        |
-| Lördag    |    NA     | Helst undviks    |      |        |
-| Söndag    |    NA     | Helst undviks    |      |        |
+| Dag       | Alexander | Fredrik          |    Jana   | Husein |
+|-----------|-----------|------------------|-----------|--------|
+| Måndag    |    NA     | Valfri tid       |Valfri tid|        |
+| Tisdag    |   10-12   | 13:00–17:00      |     NA    |        |
+| Onsdag    |   13-14   | 13:00–17:00      |     NA    |        |
+| Torsdag   |   13-14   | 13:00–17:00      |     NA    |        |
+| Fredag    |    NA     | Valfri tid       |     NA    |        |
+| Lördag    |    NA     | Helst undviks    |Helst undviks|        |
+| Söndag    |    NA     | Helst undviks    |Helst undviks|        |
 
 
 
