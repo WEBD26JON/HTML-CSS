@@ -68,3 +68,5 @@ Gruppen behöver diskutera och enas om vilka delar som ska ingå, vilket innehå
   
 
 **Målet** är att gruppen gemensamt ska ta fram en lista över önskat innehåll som kan användas som grund för en broschyr eller en landningssida.
+
+[7 of the Best B2B Landing Page Examples](https://markateur.com/7-of-the-best-b2b-landing-page-examples/)
