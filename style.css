@@ -1,0 +1,7 @@
+.markdown-body img {
+    width: 50%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
