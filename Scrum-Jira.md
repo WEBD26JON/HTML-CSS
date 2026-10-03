@@ -11,14 +11,14 @@ Vi börjar med det minst roliga. Här är de viktigaste begreppen från dokument
      alt="Home"
      width="300">
 
-### Scrum team
+### Scrum
 
 Просто способ организовать работу над программой небольшими этапами. Вместо того чтобы пытаться сделать всё сразу, команда разбивает работу на короткие периоды, проверяет результат и продолжает.<br>
 Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I stället för att försöka göra allt på en gång delar teamet upp arbetet i korta perioder, kontrollerar resultatet och fortsätter sedan.
 
-<img src="ovningar/img/scrum-team.jpg"
-     alt="A man's hand holds a pen and writes a check list with checkboxes, a wooden table Time management concept"
-     width="500">
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/5a1/22e/4c8/5a122e4c8bc13b5927fb0022bd2dcfcc.png"
+     alt="Scrum process"
+     width="650">
 
 ### Jira
 
@@ -82,6 +82,10 @@ En diskussion efter att arbetscykeln har avslutats: vad som gick bra, vad som in
 ---
 
 ## Scrum-teamets ansvar
+
+<img src="ovningar/img/scrum-team.jpg"
+     alt="A man's hand holds a pen and writes a check list with checkboxes, a wooden table Time management concept"
+     width="500">
 
 Hela **Scrum-teamet** har ett gemensamt **ansvar** för att skapa ett värdefullt och användbart **Increment** under varje Sprint.
 
