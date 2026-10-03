@@ -1,5 +1,3 @@
-<img width="481" height="372" alt="image" src="https://github.com/user-attachments/assets/f5a3c2a8-4c40-4eea-ab81-e86ddaf987a1" /># Övning med arbetsgruppen ”The ultimate resort”
-
 ## Kursmoment 3 - "Agila arbetsmetoder" · Inlämningsuppgift
 
 ### Beskrivning:
