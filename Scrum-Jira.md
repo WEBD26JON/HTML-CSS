@@ -28,7 +28,7 @@
 
 Список всего, что когда-либо потребуется сделать в проекте. Например: создать страницу входа, сделать регистрацию, добавить меню, исправить ошибки.
 
-<img src="(https://images.openai.com/static-rsc-4/YQgNL4Gm3vDYkxtQA9U0cy4H1lXx22Rev8fp3vxcWljIRx29Vj_tdcMkG5ZfBkDEWhAHpzij-IcaTGaUvbAfG8sB9pAIJZnFSkiveRYbL6o_FHs_gtdobXQnSbure6WkTqQ1VtqFcJf2DxPGlkPCNchnCDEbF_e43pc_1NC3UeHDH1DcpqXwXxLeZCmlg-9F?purpose=fullsize"
+<img src="https://images.openai.com/static-rsc-4/YQgNL4Gm3vDYkxtQA9U0cy4H1lXx22Rev8fp3vxcWljIRx29Vj_tdcMkG5ZfBkDEWhAHpzij-IcaTGaUvbAfG8sB9pAIJZnFSkiveRYbL6o_FHs_gtdobXQnSbure6WkTqQ1VtqFcJf2DxPGlkPCNchnCDEbF_e43pc_1NC3UeHDH1DcpqXwXxLeZCmlg-9F?purpose=fullsize"
      alt="Calendar Weekly plan Doing business or activities with in a week"
      width="400">
      
@@ -44,8 +44,8 @@
 
 Описание того, что пользователь хочет получить от программы. Например: «Как пользователь, я хочу создать аккаунт, чтобы просматривать свои предыдущие покупки».
 
-<img src="https://images.openai.com/static-rsc-4/xpHl6GtaKTJv4zDNV2PxvcjP2c19kp1C7qpGSRKEH4-la9xdn7xr1epl-RV2ZPyVVVHf-VImT8CFW8xDufKdQpsq8ynJeuOjubIbB2G2RbykA7WIe8CoN_t0g-NnAa2xnCO3T8h8OQWGknR6B2PCrehREQztXnUYNgQ-nXelBVKmV4rMhBSHU52RF-3cPmuD?purpose=fullsize"
-     alt="Murata Is Looking for Partners to Create the Future Murata Open Innovation｜Murata Manufacturing"
+<img src="ovningar/img/user-story.jpg"
+     alt="User story"
      width="400">
 
 ### Daily Standup
