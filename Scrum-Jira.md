@@ -91,19 +91,11 @@ Hela **Scrum-teamet** har ett gemensamt **ansvar** för att skapa ett värdefull
 alt="Scrum-teamets ansvar"
      width="400">
 
-<img src="https://alexey-avdeev.com/project-management/"
-alt="project-managementr"
-     width="400">
-
 ### Developers
 
 **Developers** är de personer i Scrum-teamet som bidrar till att skapa alla delar av ett färdigt och användbart Increment under varje Sprint.
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/35a/b62/6fa/35ab626fa4fd1eb55b5ee16f4a353f0b.png"
-alt="Developers"
-     width="400">
-
-<img src="https://kartinki.pibig.info/18764-mezhdunarodnyj-den-programmistov-kartinki.html"
 alt="Developers"
      width="400">
      
@@ -112,10 +104,6 @@ alt="Developers"
 **Product Owner** ansvarar för att **maximera värdet av produkten** som skapas genom Scrum-teamets arbete.
 
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/e0d/bb4/d2e/e0dbb4d2ece61afc1f6ba7654b0785d7.png"
-alt="Product Owners"
-     width="400">
-     
-<img src="https://imghub.ru/product-owner-eto"
 alt="Product Owners"
      width="400">
 
