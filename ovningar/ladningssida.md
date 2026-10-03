@@ -6,6 +6,9 @@ En **landningssida (landing page)** är en webbsida som är utformad för ett sp
 
 Till skillnad från en vanlig webbplats, som ofta har flera sidor och olika avsnitt, fokuserar en landningssida vanligtvis på ett enda ämne eller erbjudande.
 
+<img src="https://markateur.com/wp-content/uploads/2022/02/landing-pages-landing-page-design-web-page-min-700x456.jpg"
+   alt="Ladningspage" width="500">
+
 ## 2. Vad innehåller en landningssida?
 
 En landningssida kan innehålla följande delar:
