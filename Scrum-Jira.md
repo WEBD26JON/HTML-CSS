@@ -118,5 +118,8 @@ alt="Product Owners"
 >
 > Scrum Master behöver inte själv delta aktivt i alla möten. Till exempel är det inte ett krav att Scrum Master deltar i Daily Scrum. Uppgiften är bland annat att lära teamet att hålla mötet inom 15 minuter, så att teamet sedan kan genomföra det självständigt.
 
+<img src="https://miro.medium.com/v2/resize:fit:1198/1*_G4ajZ9M1h7y5iTIOzmJ1g.jpeg"
+alt="Scrum Master"
+     width="500">
 
 
