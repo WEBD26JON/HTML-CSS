@@ -38,15 +38,15 @@ synlighet i allt arbete som pågår.
 
 ## Grupp 1 – Tillgänglighet för möten
 
-| Dag       | Alexander | Fredrik          |    Jana   | Husein |
-|-----------|-----------|------------------|-----------|--------|
-| Måndag    |    NA     | Valfri tid       |Valfri tid|        |
-| Tisdag    |   10-12   | 13:00–17:00      |     NA    |        |
-| Onsdag    |   13-14   | 13:00–17:00      |     NA    |        |
-| Torsdag   |   13-14   | 13:00–17:00      |     NA    |        |
-| Fredag    |    NA     | Valfri tid       |     NA    |        |
-| Lördag    |    NA     | Helst undviks    |Helst undviks|        |
-| Söndag    |    NA     | Helst undviks    |Helst undviks|        |
+| Dag       | Alexander | Fredrik          |    Jana   |  Husein  |
+|-----------|-----------|------------------|-----------|----------|
+| Måndag    |    NA     | Valfri tid       |Valfri tid |Valfri tid|       |
+| Tisdag    |   10-12   | 13:00–17:00      |     NA    | ? |
+| Onsdag    |   13-14   | 13:00–17:00      |     NA    | ? |
+| Torsdag   |   13-14   | 13:00–17:00      |     NA    | ? |
+| Fredag    |    NA     | Valfri tid       |     NA    | ? |
+| Lördag    |    NA     | Helst undviks    |Helst undviks| ? |
+| Söndag    |    NA     | Helst undviks    |Helst undviks| ? |
 
 
 
