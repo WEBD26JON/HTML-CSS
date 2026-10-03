@@ -16,7 +16,7 @@ Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I ställe
 
 <img src="ovningar/img/scrum-team.jpg"
      alt="A man's hand holds a pen and writes a check list with checkboxes, a wooden table Time management concept"
-     width="400">
+     width="500">
 
 ### Jira
 
@@ -25,7 +25,7 @@ Ett vanligt program för att hålla reda på uppgifter. Man kan skapa en att gö
 
 <img src="https://images.openai.com/static-rsc-4/83OBou1lKxax9xhXbGMzmYilMILgJxM2oKYyPjSda0_Qoq9oAtN4pWVCKAXzzqamA_QlHvlzijJRWAlAz3lN7RIVAOk99epkEcozd2yxKhDHAVZ1waq2f6151RR3bkWO7iT-Ag-50IYPTG7CMdVMNA9ai4_oMr-jsqOrt0RwPOOdz3PA4GIrN8Ho5jhz1XSO?purpose=fullsize"
      alt="Project tracking template Jira"
-     width="400">
+     width="500">
 
 ### Backlog
 
