@@ -5,9 +5,9 @@
 Начнём с самого неприятного. Вот основные термины из документа, но без академических объяснений.<br>
 Vi börjar med det minst roliga. Här är de viktigaste begreppen från dokumentet, men utan akademiska förklaringar.
 
-<img src="https://images.openai.com/static-rsc-4/L9Lvr1Q2k1KMoUFkpEkY1MHAJ78GKXZBRZhp1gHO3pBWQ_o3RCtqT6Q9pc5sTUc1WcLKRMVZUnTrM2n4_U7E40Y4zNmmkKmjDcGkv8HepXbTpEYKuqw_hrQxQaMlWQIO-w-nPIz3zt_vEqmZFdDuduKDyiktO6Ci57yyYoODjSgBLHq6K2w3kZMkejvm9GBs?purpose=fullsize"
+<img src="ovningar/img/alviska2human.jpg"
      alt="Home"
-     width="400">
+     width="300">
 
 ### Scrum
 
