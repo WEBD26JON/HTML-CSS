@@ -46,7 +46,7 @@ En bestämd tidsperiod, vanligtvis en eller två veckor, då teamet planerar att
 
 En beskrivning av vad användaren vill kunna göra i programmet. Till exempel: ”Som användare vill jag skapa ett konto så att jag kan se mina tidigare köp.”
 
-<img src="ovningar/img/user-story.jpg"
+<img src="https://t2informatik.de/en/wp-content/uploads/sites/2/2024/01/user-story-smartpedia.jpg"
      alt="User story"
      width="400">
 
