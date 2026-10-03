@@ -52,6 +52,8 @@ synlighet i allt arbete som pågår.
 
 # TFM
 
+Läs mer om [Scrum och Jura](../Scrum-Jura.md)
+
 ### 🤖 #1A gemma4:31b-cloud
 
 Detta är en praktisk övning i Agila arbetsmetoder, där din grupp ska simulera arbetet av ett riktigt Scrum-team kring ett litet projekt.
