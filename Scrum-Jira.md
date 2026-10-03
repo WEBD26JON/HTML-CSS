@@ -19,7 +19,7 @@ Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I ställe
 <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/5a1/22e/4c8/5a122e4c8bc13b5927fb0022bd2dcfcc.png"
      alt="Scrum process"
      width="650">
-
+     
 ### Jira
 
 Обычная программа для учёта задач. Можно создать список дел, назначить исполнителей и перемещать карточки между колонками «Нужно сделать», «В работе» и «Готово».<br>
@@ -43,9 +43,9 @@ En lista över allt som någon gång behöver göras i projektet. Till exempel: 
 Определённый промежуток времени, обычно одна или две недели, за который команда планирует выполнить часть задач. Это просто рабочий цикл с установленными началом и концом.<br>
 En bestämd tidsperiod, vanligtvis en eller två veckor, då teamet planerar att slutföra en del av uppgifterna. Det är helt enkelt en arbetscykel med en tydlig start och ett tydligt slut.
 
-<img src="https://images.openai.com/static-rsc-4/K02vnlQz_UdVnlCjHkcd_-RBHuAR73i97WOnRnarua8Po9jy2WN6W1zgbmUvnj5gHiXSj1Ss9bF9xujBq9WR77OV3_wguPlUlB2EID0IKFNKwNyxgL54IQ1mmgnGhjGPIoxDDspmOzMMtlkI5ElX03bMMmSWdQOBnphFePKvf-6DNfQX2e892FDcPgXG7URe?purpose=fullsize"
-     alt="UX graphic designer planning application process development prototype wireframe for web smart phone"
-     width="400">
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/c27/46f/2b0/c2746f2b062da27c9449d3a702198400.png"
+     alt="Sprint"
+     width="600">
      
 ### User Story
 
