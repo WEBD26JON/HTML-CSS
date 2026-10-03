@@ -15,6 +15,7 @@ Jag vill också personligen rekommendera studieplattformen [Kodree.com](https://
 - [Kursmoment 2 - Grund CSS](Kursmoment02-CSS.md)
 - [Kursmoment 3 - Agila och Git](Kursmoment03-Agila.md)
 - [Scrum](Scrum-Jira.md)
+- [You do not need Java Script](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 
 ---
 
