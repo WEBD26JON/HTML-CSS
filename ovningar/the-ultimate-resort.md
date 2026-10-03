@@ -54,7 +54,7 @@ synlighet i allt arbete som pågår.
 
 ### 🤖 #1A gemma4:31b-cloud
 
-Alexander, detta är en praktisk övning i Agila arbetsmetoder, där din grupp ska simulera arbetet av ett riktigt Scrum-team kring ett litet projekt.
+Detta är en praktisk övning i Agila arbetsmetoder, där din grupp ska simulera arbetet av ett riktigt Scrum-team kring ett litet projekt.
 
 Det viktigaste: ni behöver inte skapa en riktig webbplats eller en färdig broschyr. Ni ska lära er att planera arbetet, fördela uppgifter, prioritera och genomföra korta Scrum-iterationer med hjälp av Jira.
 Hela arbetet är beräknat till 60–90 minuter och bedöms inte med betyg.
