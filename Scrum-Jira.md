@@ -79,6 +79,11 @@ En presentation av det som teamet har hunnit göra under arbetscykeln. I praktik
 Обсуждение после завершения цикла: что получилось, что не получилось и что можно изменить в следующий раз.<br>
 En diskussion efter att arbetscykeln har avslutats: vad som gick bra, vad som inte fungerade och vad man kan förändra till nästa gång.
 
+<img src="ovningar/img/sprint-retrospektiv.jpg"
+     alt="Sprint review"
+     width="600">
+
+
 ---
 
 ## Scrum-teamets ansvar
