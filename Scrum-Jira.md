@@ -1,30 +1,22 @@
-<!DOCTYPE html>
-<html lang="sv">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet"
-          href="{{ 'style.css' | relative_url }}">
-</head>
-<body>
-    <main class="markdown-body">
-
 # Scrum med Jira 
 
 ## 1. Переводим эльфийского на человеческй
 
 Начнём с самого неприятного. Вот основные термины из документа, но без академических объяснений.
 
-![Home](https://images.openai.com/static-rsc-4/L9Lvr1Q2k1KMoUFkpEkY1MHAJ78GKXZBRZhp1gHO3pBWQ_o3RCtqT6Q9pc5sTUc1WcLKRMVZUnTrM2n4_U7E40Y4zNmmkKmjDcGkv8HepXbTpEYKuqw_hrQxQaMlWQIO-w-nPIz3zt_vEqmZFdDuduKDyiktO6Ci57yyYoODjSgBLHq6K2w3kZMkejvm9GBs?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/L9Lvr1Q2k1KMoUFkpEkY1MHAJ78GKXZBRZhp1gHO3pBWQ_o3RCtqT6Q9pc5sTUc1WcLKRMVZUnTrM2n4_U7E40Y4zNmmkKmjDcGkv8HepXbTpEYKuqw_hrQxQaMlWQIO-w-nPIz3zt_vEqmZFdDuduKDyiktO6Ci57yyYoODjSgBLHq6K2w3kZMkejvm9GBs?purpose=fullsize"
+     alt="Home"
+     width="400">
 
-Scrum
+### Scrum
 
 Просто способ организовать работу над программой небольшими этапами. Вместо того чтобы пытаться сделать всё сразу, команда разбивает работу на короткие периоды, проверяет результат и продолжает.
 
-![Project tracking template  Jira](https://images.openai.com/static-rsc-4/83OBou1lKxax9xhXbGMzmYilMILgJxM2oKYyPjSda0_Qoq9oAtN4pWVCKAXzzqamA_QlHvlzijJRWAlAz3lN7RIVAOk99epkEcozd2yxKhDHAVZ1waq2f6151RR3bkWO7iT-Ag-50IYPTG7CMdVMNA9ai4_oMr-jsqOrt0RwPOOdz3PA4GIrN8Ho5jhz1XSO?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/83OBou1lKxax9xhXbGMzmYilMILgJxM2oKYyPjSda0_Qoq9oAtN4pWVCKAXzzqamA_QlHvlzijJRWAlAz3lN7RIVAOk99epkEcozd2yxKhDHAVZ1waq2f6151RR3bkWO7iT-Ag-50IYPTG7CMdVMNA9ai4_oMr-jsqOrt0RwPOOdz3PA4GIrN8Ho5jhz1XSO?purpose=fullsize"
+     alt="Project tracking template  Jira"
+     width="400">
 
-Jira
+### Jira
 
 Обычная программа для учёта задач. Можно создать список дел, назначить исполнителей и перемещать карточки между колонками «Нужно сделать», «В работе» и «Готово».
 
@@ -64,7 +56,5 @@ Retrospective
 
 Обсуждение после завершения цикла: что получилось, что не получилось и что можно изменить в следующий раз.
 
-    </main>
-</body>
-</html>
+
 
