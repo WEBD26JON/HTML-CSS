@@ -14,7 +14,7 @@ Vi börjar med det minst roliga. Här är de viktigaste begreppen från dokument
 Просто способ организовать работу над программой небольшими этапами. Вместо того чтобы пытаться сделать всё сразу, команда разбивает работу на короткие периоды, проверяет результат и продолжает.<br>
 Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I stället för att försöka göra allt på en gång delar teamet upp arbetet i korta perioder, kontrollerar resultatet och fortsätter sedan.
 
-<img src="https://images.openai.com/static-rsc-4/S67JExX21Vo-svwEuz7wsFWUhtb18jB7M2I8n_VxX0FIaVR_NuftHWelhWmojC5Tvjxjw61hqDbnowp9-8LktBEAhw3a94saeEnBKx-47ATUS0utV9mRhFvR0eyK8kOyFpCJVHNjucvVyzhutr_5aCxmCMuEDi35mXHrkviUwRGUFxkmxLOob1AMw3W1ktGV?purpose=fullsize"
+<img src="ovningar/img/scrum-team.jpg"
      alt="A man's hand holds a pen and writes a check list with checkboxes, a wooden table Time management concept"
      width="400">
 
