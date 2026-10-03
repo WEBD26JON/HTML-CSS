@@ -14,8 +14,8 @@ Vi börjar med det minst roliga. Här är de viktigaste begreppen från dokument
 Просто способ организовать работу над программой небольшими этапами. Вместо того чтобы пытаться сделать всё сразу, команда разбивает работу на короткие периоды, проверяет результат и продолжает.<br>
 Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I stället för att försöka göra allt på en gång delar teamet upp arbetet i korta perioder, kontrollerar resultatet och fortsätter sedan.
 
-<img src="https://images.openai.com/static-rsc-4/83OBou1lKxax9xhXbGMzmYilMILgJxM2oKYyPjSda0_Qoq9oAtN4pWVCKAXzzqamA_QlHvlzijJRWAlAz3lN7RIVAOk99epkEcozd2yxKhDHAVZ1waq2f6151RR3bkWO7iT-Ag-50IYPTG7CMdVMNA9ai4_oMr-jsqOrt0RwPOOdz3PA4GIrN8Ho5jhz1XSO?purpose=fullsize"
-     alt="Project tracking template Jira"
+<img src="https://images.openai.com/static-rsc-4/S67JExX21Vo-svwEuz7wsFWUhtb18jB7M2I8n_VxX0FIaVR_NuftHWelhWmojC5Tvjxjw61hqDbnowp9-8LktBEAhw3a94saeEnBKx-47ATUS0utV9mRhFvR0eyK8kOyFpCJVHNjucvVyzhutr_5aCxmCMuEDi35mXHrkviUwRGUFxkmxLOob1AMw3W1ktGV?purpose=fullsize"
+     alt="A man's hand holds a pen and writes a check list with checkboxes, a wooden table Time management concept"
      width="400">
 
 ### Jira
@@ -23,8 +23,8 @@ Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I ställe
 Обычная программа для учёта задач. Можно создать список дел, назначить исполнителей и перемещать карточки между колонками «Нужно сделать», «В работе» и «Готово».<br>
 Ett vanligt program för att hålla reda på uppgifter. Man kan skapa en att göra-lista, tilldela uppgifter till olika personer och flytta kort mellan kolumnerna ”Att göra”, ”Pågår” och ”Klart”.
 
-<img src="https://images.openai.com/static-rsc-4/S67JExX21Vo-svwEuz7wsFWUhtb18jB7M2I8n_VxX0FIaVR_NuftHWelhWmojC5Tvjxjw61hqDbnowp9-8LktBEAhw3a94saeEnBKx-47ATUS0utV9mRhFvR0eyK8kOyFpCJVHNjucvVyzhutr_5aCxmCMuEDi35mXHrkviUwRGUFxkmxLOob1AMw3W1ktGV?purpose=fullsize"
-     alt="A man's hand holds a pen and writes a check list with checkboxes, a wooden table Time management concept"
+<img src="https://images.openai.com/static-rsc-4/83OBou1lKxax9xhXbGMzmYilMILgJxM2oKYyPjSda0_Qoq9oAtN4pWVCKAXzzqamA_QlHvlzijJRWAlAz3lN7RIVAOk99epkEcozd2yxKhDHAVZ1waq2f6151RR3bkWO7iT-Ag-50IYPTG7CMdVMNA9ai4_oMr-jsqOrt0RwPOOdz3PA4GIrN8Ho5jhz1XSO?purpose=fullsize"
+     alt="Project tracking template Jira"
      width="400">
 
 ### Backlog
