@@ -61,7 +61,7 @@ En beskrivning av vad användaren vill kunna göra i programmet. Till exempel: �
 Короткое ежедневное собрание, на котором каждый говорит, что сделал вчера, что собирается делать сегодня и что ему мешает.<br>
 Ett kort dagligt möte där alla berättar vad de gjorde i går, vad de planerar att göra i dag och om det finns något som hindrar dem från att arbeta.
 
-<img src="https://images.openai.com/static-rsc-4/yaP8wmOflbr1A3NKPE5OdpAyvzh1dAQ8qkWubI2y6TxDPBrpG6-9kA5JJmRR4bijzY2XhxzUQ4GyegYtbhVam-4Wb8YGatlHjRJL3Hd6bpeffwINiIakVgmux18Mbp9cptPbB6erxpoCSnECseaVeldYmLRqi5KYA9RdwL4Lz1xDF_zeMAvcjA3EXbJpMhhT?purpose=fullsize"
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/0d9/296/f02/0d9296f02ddb1f8732b0d9d053dfe4cc.png"
      alt="Blog sobre project management y trabajo en equipo con Projoodle"
      width="400">
      
