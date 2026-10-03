@@ -2,7 +2,7 @@
 
 ### Beskrivning:
 I team om fyra eller fler måste deltagarna komma överens om en önskelista för vad de vill 
-se i en broschyr/landningpage för sin ”ultimate resort”. Med hjälp av Jira måste teamen sedan 
+se i en broschyr/landningpage(vad är det ladningspage- ???) för sin ”ultimate resort”. Med hjälp av Jira måste teamen sedan 
 skriva user stories för broschyren (t.ex. som förälder vill jag ha en barnvänlig atmosfär så att 
 jag kan känna mig bekväm med att ta med barn; Som ägare vill jag annonsera ett specialerbjudande 
 så att jag kan locka fler semesterfirare; osv.). 
