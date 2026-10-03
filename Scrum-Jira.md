@@ -1,8 +1,9 @@
 # Scrum med Jira 
 
-## 1. Переводим эльфийского на человеческй
+## 1. Переводим эльфийского на человеческй - Från alviska till begripligt språk
 
-Начнём с самого неприятного. Вот основные термины из документа, но без академических объяснений.
+Начнём с самого неприятного. Вот основные термины из документа, но без академических объяснений.<br>
+Vi börjar med det minst roliga. Här är de viktigaste begreppen från dokumentet, men utan akademiska förklaringar.
 
 <img src="https://images.openai.com/static-rsc-4/L9Lvr1Q2k1KMoUFkpEkY1MHAJ78GKXZBRZhp1gHO3pBWQ_o3RCtqT6Q9pc5sTUc1WcLKRMVZUnTrM2n4_U7E40Y4zNmmkKmjDcGkv8HepXbTpEYKuqw_hrQxQaMlWQIO-w-nPIz3zt_vEqmZFdDuduKDyiktO6Ci57yyYoODjSgBLHq6K2w3kZMkejvm9GBs?purpose=fullsize"
      alt="Home"
@@ -10,7 +11,8 @@
 
 ### Scrum
 
-Просто способ организовать работу над программой небольшими этапами. Вместо того чтобы пытаться сделать всё сразу, команда разбивает работу на короткие периоды, проверяет результат и продолжает.
+Просто способ организовать работу над программой небольшими этапами. Вместо того чтобы пытаться сделать всё сразу, команда разбивает работу на короткие периоды, проверяет результат и продолжает.<br>
+Ett enkelt sätt att organisera arbetet med ett program i mindre steg. I stället för att försöka göra allt på en gång delar teamet upp arbetet i korta perioder, kontrollerar resultatet och fortsätter sedan.
 
 <img src="https://images.openai.com/static-rsc-4/83OBou1lKxax9xhXbGMzmYilMILgJxM2oKYyPjSda0_Qoq9oAtN4pWVCKAXzzqamA_QlHvlzijJRWAlAz3lN7RIVAOk99epkEcozd2yxKhDHAVZ1waq2f6151RR3bkWO7iT-Ag-50IYPTG7CMdVMNA9ai4_oMr-jsqOrt0RwPOOdz3PA4GIrN8Ho5jhz1XSO?purpose=fullsize"
      alt="Project tracking template Jira"
@@ -18,7 +20,8 @@
 
 ### Jira
 
-Обычная программа для учёта задач. Можно создать список дел, назначить исполнителей и перемещать карточки между колонками «Нужно сделать», «В работе» и «Готово».
+Обычная программа для учёта задач. Можно создать список дел, назначить исполнителей и перемещать карточки между колонками «Нужно сделать», «В работе» и «Готово».<br>
+Ett vanligt program för att hålla reda på uppgifter. Man kan skapa en att göra-lista, tilldela uppgifter till olika personer och flytta kort mellan kolumnerna ”Att göra”, ”Pågår” och ”Klart”.
 
 <img src="https://images.openai.com/static-rsc-4/S67JExX21Vo-svwEuz7wsFWUhtb18jB7M2I8n_VxX0FIaVR_NuftHWelhWmojC5Tvjxjw61hqDbnowp9-8LktBEAhw3a94saeEnBKx-47ATUS0utV9mRhFvR0eyK8kOyFpCJVHNjucvVyzhutr_5aCxmCMuEDi35mXHrkviUwRGUFxkmxLOob1AMw3W1ktGV?purpose=fullsize"
      alt="A man's hand holds a pen and writes a check list with checkboxes, a wooden table Time management concept"
@@ -26,7 +29,8 @@
 
 ### Backlog
 
-Список всего, что когда-либо потребуется сделать в проекте. Например: создать страницу входа, сделать регистрацию, добавить меню, исправить ошибки.
+Список всего, что когда-либо потребуется сделать в проекте. Например: создать страницу входа, сделать регистрацию, добавить меню, исправить ошибки.<br>
+En lista över allt som någon gång behöver göras i projektet. Till exempel: skapa en inloggningssida, lägga till registrering, skapa en meny och åtgärda fel.
 
 <img src="https://images.openai.com/static-rsc-4/YQgNL4Gm3vDYkxtQA9U0cy4H1lXx22Rev8fp3vxcWljIRx29Vj_tdcMkG5ZfBkDEWhAHpzij-IcaTGaUvbAfG8sB9pAIJZnFSkiveRYbL6o_FHs_gtdobXQnSbure6WkTqQ1VtqFcJf2DxPGlkPCNchnCDEbF_e43pc_1NC3UeHDH1DcpqXwXxLeZCmlg-9F?purpose=fullsize"
      alt="Calendar Weekly plan Doing business or activities with in a week"
@@ -34,15 +38,16 @@
      
 ### Sprint
 
-Определённый промежуток времени, обычно одна или две недели, за который команда планирует выполнить часть задач. Это просто рабочий цикл с установленными началом и концом.
-
+Определённый промежуток времени, обычно одна или две недели, за который команда планирует выполнить часть задач. Это просто рабочий цикл с установленными началом и концом.<br>
+En bestämd tidsperiod, vanligtvis en eller två veckor, då teamet planerar att slutföra en del av uppgifterna. Det är helt enkelt en arbetscykel med en tydlig start och ett tydligt slut.
 <img src="https://images.openai.com/static-rsc-4/K02vnlQz_UdVnlCjHkcd_-RBHuAR73i97WOnRnarua8Po9jy2WN6W1zgbmUvnj5gHiXSj1Ss9bF9xujBq9WR77OV3_wguPlUlB2EID0IKFNKwNyxgL54IQ1mmgnGhjGPIoxDDspmOzMMtlkI5ElX03bMMmSWdQOBnphFePKvf-6DNfQX2e892FDcPgXG7URe?purpose=fullsize"
      alt="UX graphic designer planning application process development prototype wireframe for web smart phone"
      width="400">
      
 ### User Story
 
-Описание того, что пользователь хочет получить от программы. Например: «Как пользователь, я хочу создать аккаунт, чтобы просматривать свои предыдущие покупки».
+Описание того, что пользователь хочет получить от программы. Например: «Как пользователь, я хочу создать аккаунт, чтобы просматривать свои предыдущие покупки».<br>
+En beskrivning av vad användaren vill kunna göra i programmet. Till exempel: ”Som användare vill jag skapa ett konto så att jag kan se mina tidigare köp.”
 
 <img src="ovningar/img/user-story.jpg"
      alt="User story"
@@ -50,7 +55,8 @@
 
 ### Daily Standup
 
-Короткое ежедневное собрание, на котором каждый говорит, что сделал вчера, что собирается делать сегодня и что ему мешает.
+Короткое ежедневное собрание, на котором каждый говорит, что сделал вчера, что собирается делать сегодня и что ему мешает.<br>
+Ett kort dagligt möte där alla berättar vad de gjorde i går, vad de planerar att göra i dag och om det finns något som hindrar dem från att arbeta.
 
 <img src="https://images.openai.com/static-rsc-4/yaP8wmOflbr1A3NKPE5OdpAyvzh1dAQ8qkWubI2y6TxDPBrpG6-9kA5JJmRR4bijzY2XhxzUQ4GyegYtbhVam-4Wb8YGatlHjRJL3Hd6bpeffwINiIakVgmux18Mbp9cptPbB6erxpoCSnECseaVeldYmLRqi5KYA9RdwL4Lz1xDF_zeMAvcjA3EXbJpMhhT?purpose=fullsize"
      alt="Blog sobre project management y trabajo en equipo con Projoodle"
@@ -58,7 +64,8 @@
      
 ### Sprint Review
 
-Демонстрация того, что команда успела сделать за рабочий цикл. По сути, показать работающий результат и получить отзывы.
+Демонстрация того, что команда успела сделать за рабочий цикл. По сути, показать работающий результат и получить отзывы.<br>
+En presentation av det som teamet har hunnit göra under arbetscykeln. I praktiken handlar det om att visa upp ett fungerande resultat och få återkoppling.
 
 <img src="https://images.openai.com/static-rsc-4/yvMkftnnYWOdWZIXeZ6ZHInM4_zUodmjO6CoucdhZQCpkg2dH_kvlhFQuNFGSmDiT3C78e2oAyMLzfD9_F2VNeKsUd8V0DQQptS6H_1KjzcE9DSCcbNqs6qi3PsiNX6XMaoohHPndovOuEWNPgvgbL8o9s_URKfTCl2XUbT0ghOrWyWkmN_hMjcn0_EiXcq_?purpose=fullsize"
      alt="Sprint review"
@@ -66,7 +73,8 @@
      
 ### Retrospective
 
-Обсуждение после завершения цикла: что получилось, что не получилось и что можно изменить в следующий раз.
+Обсуждение после завершения цикла: что получилось, что не получилось и что можно изменить в следующий раз.<br>
+En diskussion efter att arbetscykeln har avslutats: vad som gick bra, vad som inte fungerade och vad man kan förändra till nästa gång.
 
 
 
