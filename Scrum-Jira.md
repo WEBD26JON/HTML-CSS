@@ -1,6 +1,6 @@
 # Scrum med Jira 
 
-[HABR](https://habr.com/en/articles/825354/)
+[HABR](https://habr.com/en/articles/825354/) | [The 2020 Scrum GuideTM](https://scrumguides.org/scrum-guide.html#sprint-review)
 
 ## 1. Från alviska till begripligt språk
 
