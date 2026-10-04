@@ -116,7 +116,13 @@ alt="Product Owners"
 
 ### Scrum Master
 
-**Scrum Master** ansvarar för att **Scrum tillämpas** i enlighet med Scrumguiden. Detta gör de genom att hjälpa alla att förstå Scrums teori och arbetssätt, både inom Scrum-teamet och i organisationen.
+**Scrum Master** ansvarar för att **Scrum tillämpas** i enlighet med Scrumguiden.<br> 
+Detta gör de genom att hjälpa alla att förstå Scrums teori och arbetssätt, både inom Scrum-teamet och i organisationen.
+
+<img src="ovningar/img/scrum-master.jpg"
+     alt="Sprint review"
+     width="200">
+
 
 > Det är viktigt att förstå att en Scrum Master inte bara är en chef som talar om för teamet hur arbetet ska utföras. Det är en person som **utbildar** teamet och **hjälper** det att arbeta enligt Scrum-metodiken genom att undanröja hinder.
 >
@@ -124,6 +130,6 @@ alt="Product Owners"
 
 <img src="https://miro.medium.com/v2/resize:fit:1198/1*_G4ajZ9M1h7y5iTIOzmJ1g.jpeg"
 alt="Scrum Master"
-     width="500">
+     width="400">
 
 
