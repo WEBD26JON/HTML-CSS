@@ -128,6 +128,34 @@ Detta gör de genom att hjälpa alla att förstå Scrums teori och arbetssätt, 
 >
 > Scrum Master behöver inte själv delta aktivt i alla möten. Till exempel är det inte ett krav att Scrum Master deltar i Daily Scrum. Uppgiften är bland annat att lära teamet att hålla mötet inom 15 minuter, så att teamet sedan kan genomföra det självständigt.
 
+
+1. Scrum Mastern är ansvarig för att etablera Scrum enligt definitionen i Scrum Guide. 
+Detta görs genom att hjälpa alla att förstå Scrums teori och praktik, både inom Scrum-teamet och i organisationen.
+
+2. Scrum Mastern är ansvarig för Scrum-teamets effektivitet. Detta görs genom att möjliggöra för 
+Scrum-teamet att förbättra sina arbetssätt inom ramen för Scrum.
+
+3. Scrum Masters är sanna ledare som tjänar Scrum-teamet och den större organisationen.
+
+4. Scrum Mastern tjänar Scrum-teamet på flera sätt, bland annat genom att:
+- Coacha teammedlemmarna i självorganisering och tvärfunktionalitet;
+- Hjälpa Scrum-teamet att fokusera på att skapa värdefulla Increments som uppfyller Definition of Done;
+- Se till att hinder för Scrum-teamets framsteg undanröjs; och
+- Säkerställa att alla Scrum-events genomförs och är positiva, produktiva och hålls inom den avsatta tidsramen (timebox).
+
+5. Scrum Mastern tjänar Product Owner på flera sätt, bland annat genom att:
+- Hjälpa till att hitta tekniker för att effektivt definiera Product Goal och hantera Product Backlog;
+- Hjälpa Scrum-teamet att förstå behovet av tydliga och koncisa Product Backlog-items;
+- Hjälpa till att etablera empirisk produktplanering för en komplex miljö; och
+- Underlätta samarbete med intressenter när det efterfrågas eller behövs.
+  
+
+Scrum Mastern tjänar organisationen på flera sätt, bland annat genom att:
+- Leda, utbilda och coacha organisationen i införandet av Scrum;
+- Planera och ge råd kring Scrum-implementationer inom organisationen;
+- Hjälpa medarbetare och intressenter att förstå och tillämpa ett empiriskt arbetssätt för komplext arbete; och
+- Avlägsna barriärer mellan intressenter och Scrum-team.
+
 [<img src="https://miro.medium.com/v2/resize:fit:1198/1*_G4ajZ9M1h7y5iTIOzmJ1g.jpeg"
 alt="Scrum Master"
      width="400">]: # 
