@@ -14,6 +14,7 @@ Jag vill också personligen rekommendera studieplattformen [Kodree.com](https://
 - [Kursmoment 1 - Grund HTML](Kursmoment01-HTML.md)
 - [Kursmoment 2 - Grund CSS](Kursmoment02-CSS.md)
 - [Kursmoment 3 - Agila och Git](Kursmoment03-Agila.md)
+- Kursmoment 4 - "Agilt grupparbete webbprojekt"
 - [Scrum](Scrum-Jira.md)
 - [Kanban-app](https://github.com/WEBD26JON/kanban-app)
 - [You do not need Java Script](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
