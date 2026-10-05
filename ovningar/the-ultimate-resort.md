@@ -80,7 +80,7 @@ Antag att det är fyra personer i er grupp.
 ### Steg 1. Skapa projekt i Jira
 Varje deltagare skapar ett konto i Jira. <br>
 <img src="img/step02.jpg" width="240"><br>
-En av deltagarna **(Husein)** skapar ett gemensamt projekt och bjuder in de övriga. - **KLART**
+En av deltagarna skapar ett gemensamt projekt och bjuder in de övriga. - **KLART**
 I Jira kommer ni att hantera alla uppgifter, följa upp genomförandet och se det gemensamma framsteget.
 
 ### Steg 2. Skapa en önskelista (Product Backlog)
@@ -93,7 +93,7 @@ Exempel:
 Varje story skapas i Jira som ett separat kort.
 
 ### Steg 3. Välj Product Owner och prioritera
-En av deltagarna blir **Product Owner (produktägare)** - Jana.<br> 
+En av deltagarna blir **Product Owner (produktägare)**.<br> 
 <img src="img/step04.jpg" width="240"><br>
 Dennes uppgift är att organisera prioriteringen av alla User Stories och ordna dem efter viktighet för att forma Product Backlog.<br>
 Exempelvis: först bilder på resorten och grundläggande information, sedan aktiviteter och specialerbjudanden.
@@ -157,9 +157,9 @@ I Scrum finns olika roller, men i denna övning kan de fördelas enligt följand
 
 | Roll | Uppgift | Ansvarig person |
 | :--- | :--- | :--- |
-| Product Owner | Prioriterar User Stories och formar Product Backlog | **- Jana** |
-| Scrum Master | Hjälper till att organisera Scrum-processen och tar bort hinder | **- Husein**  |
-| Development Team | Genomför uppgifterna gemensamt och förbereder resultatet | **- Alexander och Fredrik**  |
+| Product Owner | Prioriterar User Stories och formar Product Backlog | - |
+| Scrum Master | Hjälper till att organisera Scrum-processen och tar bort hinder | -  |
+| Development Team | Genomför uppgifterna gemensamt och förbereder resultatet | -  |
 
 I en liten studiegrupp kan rollerna kombineras, och alla deltagare ska delta i planering och diskussioner.
 
