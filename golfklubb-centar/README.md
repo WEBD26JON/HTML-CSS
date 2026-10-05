@@ -5,7 +5,7 @@
 
 [Innehåll](https://tucsweden.learnpoint.se/GroupForms/Group_LearningContent_Item.aspx?Id=32142&ItemId=210566)
 <br>
-[Uppgift/Betyg](https://tucsweden.learnpoint.se/GroupForms/Group_LearningContent_ItemAssignment.aspx?Id=32142&ItemId=210566)
+[Uppgift](https://tucsweden.learnpoint.se/GroupForms/Group_LearningContent_ItemAssignment.aspx?Id=32142&ItemId=210566)
 
 ### Projektmål
 
