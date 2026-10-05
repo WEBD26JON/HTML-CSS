@@ -41,9 +41,9 @@ synlighet i allt arbete som pågår.
 | Dag       | Alexander | Fredrik          |    Jana   |  Husein  |
 |-----------|-----------|------------------|-----------|----------|
 | Måndag    |    NA     | Valfri tid       |Valfri tid |Valfri tid|       |
-| Tisdag    |   13-15   | 13:00–17:00      |     NA    | ? |
-| Onsdag    |   13-15   | 13:00–17:00      |     NA    | ? |
-| Torsdag   |   13-15   | 13:00–17:00      |     NA    | ? |
+| Tisdag    |   12-14   | 13:00–17:00      |     NA    | ? |
+| Onsdag    |   12-14   | 13:00–17:00      |     NA    | ? |
+| Torsdag   |   12-14   | 13:00–17:00      |     NA    | ? |
 | Fredag    |    NA     | Valfri tid       |     NA    | ? |
 | Lördag    |    NA     | Helst undviks    |Helst undviks| ? |
 | Söndag    |    NA     | Helst undviks    |Helst undviks| ? |
