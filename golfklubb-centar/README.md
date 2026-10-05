@@ -1,5 +1,6 @@
-# Struktur
+## Struktur
 
+```text
 golfklubb-centar/
 ├── index.html
 ├── om-oss.html
@@ -9,7 +10,8 @@ golfklubb-centar/
 ├── kontakt.html
 └── restaurang-shop/
     └── index.html
+```
 
-# Första förslaget.
+## Första förslaget.
 
 [index.html](index.html)
