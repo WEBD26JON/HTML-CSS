@@ -146,7 +146,7 @@ Scrum-teamet att förbättra sina arbetssätt inom ramen för Scrum.
 5. Scrum Mastern tjänar Product Owner på flera sätt, bland annat genom att:
 - Hjälpa till att hitta tekniker för att effektivt definiera Product Goal och hantera Product Backlog;
 - Hjälpa Scrum-teamet att förstå behovet av tydliga och koncisa Product Backlog-items;
-- Hjälpa till att etablera empirisk produktplanering för en komplex miljö; och
+- Hjälpa till att etablera empirisk produktplanering för en komplex miljö;
 - Underlätta samarbete med intressenter när det efterfrågas eller behövs.
   
 
