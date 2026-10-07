@@ -9,28 +9,19 @@
 ## Grundmodell
 
 ```text
-Working directory
-      ↓
-   Stage
-      ↓
-   Commit
-      ↓
-Local repository
-      ↓
-   Push
-      ↓
-Remote repository (GitHub)
+LOCAL:  Working directory → Stage (git add) → Commit → Local repository → Push → GitHub
 
-Remote repository
-      ↓
-   Fetch
-      ↓
-origin/main
-      ↓
-   Pull
-      ↓
-Local repository
+REMOTE: GitHub → Fetch → origin/main → Pull → Local repository → Working directory
 ```
+
+## Terminal
+
+Kommandona i den här guiden körs i en terminal. Du kan använda:
+- VS Codes inbyggda terminal
+- en separat terminal, till exempel PowerShell, Command Prompt eller Git Bash
+
+VS Code har dessutom ett grafiskt gränssnitt för många Git-kommandon, 
+till exempel Stage, Commit, Pull och Push. Motsvarande terminalkommandon visas i exemplen nedan.
 
 ---
 
@@ -39,11 +30,17 @@ Local repository
 **Utgångsläge:**  
 Repositoryt skapas först på GitHub. Du vill hämta det till din dator och börja arbeta lokalt.
 
+Öppna terminalen i den mapp där du vill spara projektet, eller navigera dit med cd:
+```bash
+cd sökväg/till/mappen
+```
+git clone skapar en ny mapp för repositoryt i den aktuella mappen.
+
+Därefter klonar du repositoryt:
 ```bash
 git clone https://github.com/WEBD26JON/golfklubb-centar.git
 cd golfklubb-centar
 ```
-
 `clone` skapar både den lokala arbetsmappen och Git-kopplingen till `origin`.
 
 ### När andra har gjort ändringar
@@ -66,15 +63,7 @@ git push
 **VS Code:**
 
 ```text
-Changes
-   ↓
-Stage Changes
-   ↓
-Message
-   ↓
-Commit
-   ↓
-Sync / Push
+Changes → Stage Changes → Message → Commit → Sync / Push
 ```
 
 ---
@@ -115,13 +104,7 @@ git push -u origin main
 Efter detta är det ett normalt Git/GitHub-arbetsflöde:
 
 ```text
-ändra
-  ↓
-Stage
-  ↓
-Commit
-  ↓
-Push
+ändra → Stage → Commit → Push
 ```
 
 ---
