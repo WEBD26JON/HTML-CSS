@@ -1,9 +1,3 @@
-# Kort info om Git/Github
-
-<img src="bilder/git-basics.jpg" width="768">
-
----
-
 # Kort info om Git/GitHub
 
 <img src="bilder/git-basics.jpg" width="768">
