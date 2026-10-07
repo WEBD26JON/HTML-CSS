@@ -49,11 +49,9 @@ Kontrollera kopplingen:
 
 ```bash
 git remote -v
-```
 
-Exempel:
+Svar:
 
-```text
 origin  https://github.com/WEBD26JON/golfklubb-centar.git (fetch)
 origin  https://github.com/WEBD26JON/golfklubb-centar.git (push)
 ```
