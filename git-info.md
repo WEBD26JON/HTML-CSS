@@ -4,6 +4,12 @@
 
 ---
 
+# Kort info om Git/GitHub
+
+<img src="bilder/git-basics.jpg" width="768">
+
+---
+
 # Git & GitHub – snabbguide
 
 ## Grundmodell
@@ -11,37 +17,54 @@
 ```text
 LOCAL:  Working directory → Stage (git add) → Commit → Local repository → Push → GitHub
 
-REMOTE: GitHub → Fetch → origin/main → Pull → Local repository → Working directory
+REMOTE: GitHub → Fetch → origin/main → Pull/Merge → Local repository → Working directory
 ```
 
 ## Terminal
 
 Kommandona i den här guiden körs i en terminal. Du kan använda:
+
 - VS Codes inbyggda terminal
 - en separat terminal, till exempel PowerShell, Command Prompt eller Git Bash
 
-VS Code har dessutom ett grafiskt gränssnitt för många Git-kommandon, 
-till exempel Stage, Commit, Pull och Push. Motsvarande terminalkommandon visas i exemplen nedan.
+VS Code har dessutom ett grafiskt gränssnitt för många Git-kommandon, till exempel Stage, Commit, Pull och Push. Motsvarande terminalkommandon visas i exemplen nedan.
 
 ---
 
 ## Scenario 1 – Repository finns redan på GitHub
 
 **Utgångsläge:**  
-Repositoryt skapas först på GitHub. Du vill hämta det till din dator och börja arbeta lokalt.
+Repositoryt skapas först på GitHub. Du vill klona det till din dator och börja arbeta lokalt.
 
-Öppna terminalen i den mapp där du vill spara projektet, eller navigera dit med cd:
+Öppna terminalen i den mapp där du vill spara projektet, eller navigera dit med `cd`:
+
 ```bash
 cd sökväg/till/mappen
 ```
-git clone skapar en ny mapp för repositoryt i den aktuella mappen.
 
 Därefter klonar du repositoryt:
+
 ```bash
 git clone https://github.com/WEBD26JON/golfklubb-centar.git
 cd golfklubb-centar
 ```
-`clone` skapar både den lokala arbetsmappen och Git-kopplingen till `origin`.
+
+`git clone` skapar den lokala arbetsmappen, ett lokalt Git-repository och kopplingen till remote `origin`.
+
+Kontrollera kopplingen:
+
+```bash
+git remote -v
+```
+
+Exempel:
+
+```text
+origin  https://github.com/WEBD26JON/golfklubb-centar.git (fetch)
+origin  https://github.com/WEBD26JON/golfklubb-centar.git (push)
+```
+
+`origin` är namnet på remote-repositoryt. `fetch` visar adressen som används för att hämta ändringar och `push` adressen som används för att skicka ändringar.
 
 ### När andra har gjort ändringar
 
@@ -63,7 +86,7 @@ git push
 **VS Code:**
 
 ```text
-Changes → Stage Changes → Message → Commit → Sync / Push
+Changes → Stage Changes → Commit → Sync / Push
 ```
 
 ---
@@ -73,16 +96,23 @@ Changes → Stage Changes → Message → Commit → Sync / Push
 **Utgångsläge:**  
 Projektet finns först bara på din dator.
 
+Skapa projektmappen och initiera Git:
+
 ```bash
 mkdir golfklubb-centar
 cd golfklubb-centar
 
 git init
+```
+
+Lägg till filer och skapa den första commiten:
+
+```bash
 git add .
 git commit -m "Initial commit"
 ```
 
-Skapa sedan ett tomt repository på GitHub och koppla det till det lokala:
+Skapa sedan ett repository på GitHub och koppla det till det lokala repositoryt:
 
 ```bash
 git remote add origin https://github.com/WEBD26JON/golfklubb-centar.git
@@ -93,6 +123,8 @@ Kontrollera:
 ```bash
 git remote -v
 ```
+
+`git remote add origin` skapar själva kopplingen. Det skickar eller hämtar inga filer.
 
 Skicka sedan den lokala branchen till GitHub:
 
@@ -120,11 +152,9 @@ Någon annan har gjort `push` till GitHub.
 git fetch
 ```
 
-`fetch` hämtar information men ändrar inte dina arbetsfiler.
+`fetch` hämtar information om nya commits från remote utan att ändra dina lokala arbetsfiler.
 
 ### Hämta och integrera ändringar
-
-Om det finns nya ändringar på GitHub:
 
 ```bash
 git pull
@@ -138,8 +168,6 @@ Det motsvarar normalt:
 git fetch
 git merge
 ```
-
-`git fetch` hämtar information om nya commits från remote utan att ändra dina lokala filer. `git merge` integrerar sedan ändringarna i din aktuella branch.
 
 ---
 
@@ -195,7 +223,7 @@ Hämta först ändringarna:
 git pull
 ```
 
-Lös eventuella konflikter → commit → push:
+Lös eventuella konflikter och gör sedan:
 
 ```bash
 git push
