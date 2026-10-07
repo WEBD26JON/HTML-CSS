@@ -122,18 +122,24 @@ git fetch
 
 `fetch` hämtar information men ändrar inte dina arbetsfiler.
 
-### Hämta och integrera ändringarna
+### Hämta och integrera ändringar
+
+Om det finns nya ändringar på GitHub:
 
 ```bash
 git pull
 ```
 
-`pull` = ungefär:
+`git pull` hämtar nya commits från remote och integrerar dem i din aktuella branch.
+
+Det motsvarar normalt:
 
 ```bash
 git fetch
 git merge
 ```
+
+`git fetch` hämtar information om nya commits från remote utan att ändra dina lokala filer. `git merge` integrerar sedan ändringarna i din aktuella branch.
 
 ---
 
@@ -180,9 +186,7 @@ Endast staged ändringar kommer med i nästa commit.
 Någon annan har hunnit göra `push` före dig.
 
 ```text
-git push
-   ↓
-REJECTED
+git push → REJECTED
 ```
 
 Hämta först ändringarna:
