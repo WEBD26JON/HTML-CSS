@@ -8,7 +8,7 @@
 ## Inför kursmoment 5
 
 **Flexbox - Kolla material publicerad i Flex under denna kursmoment, sen:**
-- [Learn CSS Flexbox in 20 Minutes (Course)](https://www.youtube.com/watch?v=wsTv9y931o8) - https://coding2go.com/
+- [Learn CSS Flexbox in 20 Minutes (Video-Course)](https://www.youtube.com/watch?v=wsTv9y931o8) - https://coding2go.com/
 - Prova dessa interaktiva övningar först : 
 [Flexbox Froggy - Ett spel för att lära sig CSS flexbox](https://flexboxfroggy.com/#sv)  
 [Grid Garden - Ett spel för att lära sig CSS grid](https://cssgridgarden.com/#sv)  
