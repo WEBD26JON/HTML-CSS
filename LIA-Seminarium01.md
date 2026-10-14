@@ -63,7 +63,7 @@ Hanna, utbildningsledare
 En LIA-plats på ett företag som utvecklar mjukvara, tekniska produkter eller integrationslösningar, gärna i Västeråsregionen.
 
 **Vad kan jag bidra med?**  
-Jag har praktisk erfarenhet av JavaScript, Node.js, API och IoT genom egna projekt, bland annat elpris.eu och integrationer med Shelly-enheter. Jag är van vid att undersöka tekniska problem och utveckla fungerande lösningar.
+Jag har praktisk erfarenhet av JavaScript, Node.js, API och IoT genom egna projekt och integrationer med Shelly-enheter. Jag är van vid att undersöka tekniska problem och utveckla fungerande lösningar.
 
 **Vad vill jag utveckla?**  
 Mina kunskaper inom backend, fullstack-utveckling, API-integrationer och professionell mjukvaruutveckling.
