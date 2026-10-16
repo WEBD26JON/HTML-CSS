@@ -22,8 +22,9 @@ För att träna på det kan ni göra följande projekt:
 Eller [CSS Flexbox Project for Complete Beginners (Testimonial Grid)](https://www.youtube.com/watch?v=n0QmD2i90_c&list=PL12XW6i6zqKtwRpElrrP3tpH4hdSgsRAb)
 
 **Responsive webb**<br> 
-https://www.w3schools.com/css/css3_mediaqueries.asp  
-https://interactivecss.com/css-media-queries-interactive-tutorial/
+https://www.w3schools.com/css/css3_mediaqueries.asp <br>
+https://interactivecss.com/css-media-queries-interactive-tutorial/<br>
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/<br>
 
 **WCAG Guidelines**  
 https://www.w3.org/WAI/standards-guidelines/wcag/glance/  
